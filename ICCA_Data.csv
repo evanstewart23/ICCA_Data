@@ -1,0 +1,1554 @@
+year,region,comp,compcode,place,group,university,score,award,gender
+2007,new england,Semifinal,1,1,Zumbyes,AMHERST COLLEGE,388,1,male
+2007,new england,Quarterfinal,1,1,Zumbyes,AMHERST COLLEGE,422,1,male
+2007,final,Final,1,3,Zumbyes,AMHERST COLLEGE,335,0,male
+2018,south,Quarterfinal,4,2,Enharmonix,APPALACHIAN STATE UNIVERSITY,337,1,coed
+2017,south,Quarterfinal,1,2,Enharmonix,APPALACHIAN STATE UNIVERSITY,319,0,coed
+2009,south,Quarterfinal,1,2,Another Level,APPALACHIAN STATE UNIVERSITY,356,1,male
+2019,southwest,Quarterfinal,1,3,TEMPEtations,ARIZONA STATE UNIVERSITY-TEMPE,335,0,coed
+2018,southwest,Quarterfinal,3,1,TEMPEtations,ARIZONA STATE UNIVERSITY-TEMPE,374,1,coed
+2015,west,Quarterfinal,5,3,Priority Male,ARIZONA STATE UNIVERSITY-TEMPE,363,0,male
+2014,west,Quarterfinal,5,3,TEMPEtations,ARIZONA STATE UNIVERSITY-TEMPE,335,1,coed
+2013,west,Quarterfinal,2,1,Priority Male,ARIZONA STATE UNIVERSITY-TEMPE,385,2,male
+2013,west,Quarterfinal,2,2,Pitchforks,ARIZONA STATE UNIVERSITY-TEMPE,354,1,female
+2012,west,Quarterfinal,4,3,Pitchforks,ARIZONA STATE UNIVERSITY-TEMPE,280,0,female
+2019,midwest,Quarterfinal,3,3,Unexpected Resolution,BALL STATE UNIVERSITY,298,1,male
+2019,midwest,Semifinal,1,1,Sedoctave,BALL STATE UNIVERSITY,378,0,coed
+2019,midwest,Quarterfinal,3,1,Sedoctave,BALL STATE UNIVERSITY,379,2,coed
+2018,midwest,Quarterfinal,2,2,Unexpected Resolution,BALL STATE UNIVERSITY,333,0,male
+2018,midwest,Quarterfinal,2,1,Sedoctave,BALL STATE UNIVERSITY,427,1,coed
+2018,midwest,Quarterfinal,2,3,Note to Self,BALL STATE UNIVERSITY,317,0,male
+2017,midwest,Quarterfinal,2,1,Sedoctave,BALL STATE UNIVERSITY,387,1,coed
+2017,midwest,Quarterfinal,2,2,Ladies' Choice,BALL STATE UNIVERSITY,359,1,female
+2016,midwest,Quarterfinal,1,3,Sedoctave,BALL STATE UNIVERSITY,330,0,coed
+2016,midwest,Quarterfinal,1,1,Note to Self,BALL STATE UNIVERSITY,402,1,male
+2016,midwest,Quarterfinal,1,2,Ladies' Choice,BALL STATE UNIVERSITY,397,1,female
+2015,midwest,Quarterfinal,1,3,Sedoctave,BALL STATE UNIVERSITY,339,1,coed
+2013,northeast,Quarterfinal,2,2,Manic Optimists,BATES COLLEGE,332,0,male
+2017,southwest,Quarterfinal,1,1,VirtuOSO,BAYLOR UNIVERSITY,416,2,coed
+2015,south,Semifinal,1,1,VirtuOSO,BAYLOR UNIVERSITY,397,0,coed
+2015,south,Quarterfinal,3,1,VirtuOSO,BAYLOR UNIVERSITY,442,2,coed
+2019,south,Semifinal,1,2,Prismatics,BELMONT UNIVERSITY,354,2,coed
+2019,south,Quarterfinal,1,1,Prismatics,BELMONT UNIVERSITY,403,1,coed
+2019,south,Quarterfinal,1,2,Beltones,BELMONT UNIVERSITY,388,0,coed
+2018,south,Quarterfinal,2,2,Prismatics,BELMONT UNIVERSITY,420,2,coed
+2017,south,Semifinal,1,1,Beltones,BELMONT UNIVERSITY,371,2,coed
+2017,south,Quarterfinal,1,1,Beltones,BELMONT UNIVERSITY,400,1,coed
+2015,south,Semifinal,1,2,Beltones,BELMONT UNIVERSITY,392,1,coed
+2015,south,Quarterfinal,3,2,Beltones,BELMONT UNIVERSITY,392,0,coed
+2014,wildcard,Wildcard,1,1,Beltones,BELMONT UNIVERSITY,329,0,coed
+2014,south,Semifinal,1,2,Beltones,BELMONT UNIVERSITY,344,0,coed
+2014,south,Quarterfinal,3,2,Beltones,BELMONT UNIVERSITY,341,0,coed
+2013,wildcard,Wildcard,1,1,Beltones,BELMONT UNIVERSITY,381,0,coed
+2013,south,Semifinal,1,2,Beltones,BELMONT UNIVERSITY,391,1,coed
+2013,south,Quarterfinal,3,1,Beltones,BELMONT UNIVERSITY,395,1,coed
+2019,northeast,Quarterfinal,2,2,CharlieChords,BERKLEE COLLEGE OF MUSIC,299,1,male
+2018,final,Final,1,2,Upper Structure,BERKLEE COLLEGE OF MUSIC,319,1,coed
+2018,northeast,Semifinal,1,1,Upper Structure,BERKLEE COLLEGE OF MUSIC,420,3,coed
+2018,northeast,Quarterfinal,1,1,Upper Structure,BERKLEE COLLEGE OF MUSIC,411,2,coed
+2018,northeast,Quarterfinal,2,2,CharlieChords,BERKLEE COLLEGE OF MUSIC,334,1,male
+2017,wildcard,Wildcard,1,2,Upper Structure,BERKLEE COLLEGE OF MUSIC,344,0,coed
+2017,northeast,Semifinal,1,2,Upper Structure,BERKLEE COLLEGE OF MUSIC,379,2,coed
+2017,northeast,Quarterfinal,3,1,Upper Structure,BERKLEE COLLEGE OF MUSIC,371,2,coed
+2016,northeast,Quarterfinal,1,3,CharlieChords,BERKLEE COLLEGE OF MUSIC,314,0,male
+2015,northeast,Semifinal,1,3,CharlieChords,BERKLEE COLLEGE OF MUSIC,338,1,male
+2015,northeast,Quarterfinal,1,1,CharlieChords,BERKLEE COLLEGE OF MUSIC,377,1,male
+2014,northeast,Semifinal,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,414,2,coed
+2014,northeast,Quarterfinal,3,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,431,3,coed
+2014,final,Final,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,431,3,coed
+2011,northeast,Semifinal,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,435,1,coed
+2011,northeast,Quarterfinal,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,418,1,coed
+2011,final,Final,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,403,0,coed
+2010,northeast,Semifinal,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,426,1,coed
+2010,northeast,Quarterfinal,1,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,450,3,coed
+2010,final,Final,1,2,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,376,1,coed
+2009,northeast,Semifinal,1,3,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,313,0,coed
+2009,northeast,Quarterfinal,2,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,406,1,coed
+2008,northeast,Quarterfinal,2,1,Pitch Slapped,BERKLEE COLLEGE OF MUSIC,412,NA,coed
+2007,new england,Quarterfinal,1,3,Sharps,BOSTON COLLEGE,259,1,female
+2016,northeast,Quarterfinal,2,1,Treblemakers,BOSTON UNIVERSITY,408,2,coed
+2016,northeast,Quarterfinal,1,1,In Achord,BOSTON UNIVERSITY,352,1,coed
+2016,northeast,Quarterfinal,2,3,Dear Abbeys,BOSTON UNIVERSITY,338,0,male
+2016,northeast,Semifinal,1,1,BosTones,BOSTON UNIVERSITY,357,1,coed
+2016,northeast,Quarterfinal,2,2,BosTones,BOSTON UNIVERSITY,374,1,coed
+2014,northeast,Quarterfinal,3,3,In Achord,BOSTON UNIVERSITY,280,0,coed
+2013,northeast,Quarterfinal,3,3,BosTones,BOSTON UNIVERSITY,270,0,coed
+2011,northeast,Quarterfinal,1,3,BosTones,BOSTON UNIVERSITY,312,1,coed
+2009,northeast,Quarterfinal,1,3,BosTones,BOSTON UNIVERSITY,319,1,coed
+2008,northeast,Quarterfinal,2,2,Dynamics,BOSTON UNIVERSITY,350,NA,coed
+2008,northeast,Quarterfinal,1,3,Barbershop Sweethearts,BOSTON UNIVERSITY,323,1,female
+2007,new england,Quarterfinal,1,2,Terpsichore,BOSTON UNIVERSITY,347,1,female
+2007,new england,Quarterfinal,2,1,In Achord,BOSTON UNIVERSITY,411,2,coed
+2006,new england,Quarterfinal,4,2,Treblemakers,BOSTON UNIVERSITY,346,1,coed
+2006,new england,Quarterfinal,2,3,Terpsichore,BOSTON UNIVERSITY,317,1,female
+2006,new england,Semifinal,1,2,In Achord,BOSTON UNIVERSITY,340,1,coed
+2006,new england,Quarterfinal,3,1,In Achord,BOSTON UNIVERSITY,382,2,coed
+2011,northeast,Quarterfinal,4,1,Longfellows,BOWDOIN COLLEGE,350,0,male
+2019,midwest,Semifinal,1,3,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,322,0,male
+2019,midwest,Quarterfinal,3,2,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,367,1,male
+2018,midwest,Quarterfinal,1,3,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,295,0,male
+2017,central,Quarterfinal,2,3,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,358,1,male
+2016,central,Quarterfinal,2,1,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,363,0,male
+2015,great lakes,Semifinal,1,3,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,316,1,male
+2015,great lakes,Quarterfinal,1,1,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,415,3,male
+2014,great lakes,Quarterfinal,3,1,Ten40,BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS,386,0,male
+2011,northeast,Quarterfinal,3,3,Starving Artists,BRANDEIS UNIVERSITY,301,1,coed
+2010,northeast,Quarterfinal,4,2,Starving Artists,BRANDEIS UNIVERSITY,363,1,coed
+2007,new england,Quarterfinal,4,2,VoiceMale,BRANDEIS UNIVERSITY,392,1,male
+2019,southwest,Quarterfinal,3,2,Rifftide,BRIGHAM YOUNG UNIVERSITY-PROVO,330,0,coed
+2018,southwest,Quarterfinal,1,1,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,438,1,coed
+2016,northwest,Quarterfinal,3,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,415,1,female
+2016,northwest,Semifinal,1,3,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,370,2,coed
+2016,northwest,Quarterfinal,3,2,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,371,2,coed
+2015,west,Quarterfinal,1,3,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,377,0,coed
+2014,wildcard,Wildcard,1,3,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,305,0,female
+2014,west,Semifinal,1,3,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,319,0,female
+2014,west,Quarterfinal,1,2,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,367,1,female
+2014,west,Semifinal,1,2,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,365,1,coed
+2014,west,Quarterfinal,4,2,Beyond Measure,BRIGHAM YOUNG UNIVERSITY-PROVO,384,1,coed
+2012,west,Quarterfinal,1,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,399,0,female
+2011,west,Semifinal,1,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,424,2,male
+2011,west,Quarterfinal,1,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,423,2,male
+2011,final,Final,1,2,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,367,2,male
+2010,west,Quarterfinal,1,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,400,4,female
+2008,west,Quarterfinal,2,2,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,312,0,male
+2008,west,Quarterfinal,3,2,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,357,1,female
+2007,west,Semifinal,1,2,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,394,0,male
+2007,west,Quarterfinal,3,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,445,2,male
+2007,west,Semifinal,1,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,411,1,female
+2007,west,Quarterfinal,4,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,455,1,female
+2007,final,Final,1,1,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,431,1,female
+2006,west,Semifinal,1,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,NA,2,male
+2006,west,Quarterfinal,1,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,427,0,male
+2006,final,Final,1,1,Vocal Point,BRIGHAM YOUNG UNIVERSITY-PROVO,422,1,male
+2006,west,Quarterfinal,1,2,Noteworthy,BRIGHAM YOUNG UNIVERSITY-PROVO,394,1,female
+2014,northeast,Quarterfinal,5,3,Jabberwocks,BROWN UNIVERSITY,314,0,male
+2013,northeast,Quarterfinal,3,1,Brown Derbies,BROWN UNIVERSITY,312,0,male
+2010,northeast,Semifinal,1,2,Jabberwocks,BROWN UNIVERSITY,350,0,male
+2010,northeast,Quarterfinal,3,1,Jabberwocks,BROWN UNIVERSITY,426,2,male
+2010,northeast,Quarterfinal,3,2,Higher Keys,BROWN UNIVERSITY,372,0,coed
+2008,northeast,Semifinal,1,2,Jabberwocks,BROWN UNIVERSITY,392,1,male
+2008,northeast,Quarterfinal,1,1,Jabberwocks,BROWN UNIVERSITY,418,1,male
+2007,new england,Semifinal,1,2,Higher Keys,BROWN UNIVERSITY,343,1,coed
+2007,new england,Quarterfinal,2,2,Higher Keys,BROWN UNIVERSITY,403,0,coed
+2006,northeast,Semifinal,1,2,Jabberwocks,BROWN UNIVERSITY,326,1,male
+2006,northeast,Quarterfinal,4,2,Jabberwocks,BROWN UNIVERSITY,344,1,male
+2019,northeast,Quarterfinal,4,1,Bottom Line,BRYANT UNIVERSITY,390,2,coed
+2018,northeast,Quarterfinal,5,2,Bottom Line,BRYANT UNIVERSITY,342,1,coed
+2007,west,Quarterfinal,1,3,Take it SLO,CALIFORNIA POLYTECHNIC UNIVERSITY-SAN LUIS OBISPO,296,0,coed
+2019,west,Quarterfinal,2,3,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,366,1,coed
+2018,west,Quarterfinal,5,3,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,310,0,coed
+2011,west,Quarterfinal,3,2,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,381,1,coed
+2009,west,Semifinal,1,2,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,352,1,coed
+2009,west,Quarterfinal,2,2,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,362,1,coed
+2008,west,Quarterfinal,4,3,Acasola,CALIFORNIA STATE UNIVERSITY- NORTHRIDGE,323,1,coed
+2006,western europe,Semifinal,1,2,Fitz Barbershop,CAMBRIDGE UNIVERSITY,460,1,male
+2019,united kingdom,Quarterfinal,2,3,DeciBelles,CARDIFF UNIVERSITY,307,0,female
+2019,central,Semifinal,1,1,Originals,CARNEGIE MELLON UNIVERSITY,417,2,male
+2019,central,Quarterfinal,1,1,Originals,CARNEGIE MELLON UNIVERSITY,426,2,male
+2017,central,Quarterfinal,5,1,Treblemakers,CARNEGIE MELLON UNIVERSITY,352,1,coed
+2016,central,Semifinal,1,1,Originals,CARNEGIE MELLON UNIVERSITY,388,2,male
+2016,central,Quarterfinal,3,1,Originals,CARNEGIE MELLON UNIVERSITY,418,2,male
+2016,final,Final,1,2,Originals,CARNEGIE MELLON UNIVERSITY,372,3,male
+2015,great lakes,Quarterfinal,5,3,Treblemakers,CARNEGIE MELLON UNIVERSITY,347,2,coed
+2015,great lakes,Quarterfinal,5,2,Originals,CARNEGIE MELLON UNIVERSITY,358,1,male
+2014,great lakes,Quarterfinal,2,1,Originals,CARNEGIE MELLON UNIVERSITY,423,2,male
+2013,great lakes,Quarterfinal,3,1,Originals,CARNEGIE MELLON UNIVERSITY,409,2,male
+2012,mid-atlantic,Quarterfinal,4,3,Originals,CARNEGIE MELLON UNIVERSITY,346,0,male
+2010,mid-atlantic,Quarterfinal,3,3,Originals,CARNEGIE MELLON UNIVERSITY,274,0,male
+2007,mid-atlantic,Quarterfinal,3,3,Originals,CARNEGIE MELLON UNIVERSITY,303,0,male
+2019,midwest,Quarterfinal,4,2,Dharmakapella,CASE WESTERN RESERVE UNIVERSITY,380,1,coed
+2017,northeast,Quarterfinal,5,2,Divisi,CENTRAL CONNECTICUT STATE UNIVERSITY,323,0,male
+2012,northeast,Quarterfinal,2,3,Too Good For Instruments,CENTRAL CONNECTICUT STATE UNIVERSITY,353,2,female
+2011,northeast,Quarterfinal,2,3,Too Good for Instruments,CENTRAL CONNECTICUT STATE UNIVERSITY,318,1,female
+2017,northwest,Quarterfinal,3,3,Nada Cantata,CENTRAL WASHINGTON UNIVERSITY,366,0,coed
+2016,northwest,Quarterfinal,4,2,Nada Cantata,CENTRAL WASHINGTON UNIVERSITY,354,1,coed
+2015,west,Quarterfinal,1,1,Boots 'n' Cats,CENTRAL WASHINGTON UNIVERSITY,408,3,coed
+2014,west,Quarterfinal,3,3,Nada Cantata,CENTRAL WASHINGTON UNIVERSITY,330,2,coed
+2014,west,Quarterfinal,3,2,Boots 'n' Cats,CENTRAL WASHINGTON UNIVERSITY,361,1,coed
+2019,southwest,Quarterfinal,4,3,Simply Vocale,CHAPMAN UNIVERSITY,382,0,female
+2019,southwest,Quarterfinal,4,1,ChapTones,CHAPMAN UNIVERSITY,402,3,coed
+2018,west,Semifinal,1,2,ChapTones,CHAPMAN UNIVERSITY,331,0,coed
+2018,west,Quarterfinal,5,2,ChapTones,CHAPMAN UNIVERSITY,367,1,coed
+2017,southwest,Quarterfinal,3,1,ChapTones,CHAPMAN UNIVERSITY,384,1,coed
+2016,southwest,Semifinal,1,1,SoundCheck,CHAPMAN UNIVERSITY,392,1,coed
+2016,southwest,Quarterfinal,1,3,SoundCheck,CHAPMAN UNIVERSITY,350,1,coed
+2015,west,Quarterfinal,4,1,SoundCheck,CHAPMAN UNIVERSITY,389,1,coed
+2013,west,Semifinal,1,2,SoundCheck,CHAPMAN UNIVERSITY,368,1,coed
+2013,west,Quarterfinal,4,2,SoundCheck,CHAPMAN UNIVERSITY,330,0,coed
+2013,west,Quarterfinal,4,3,Men of Harmony,CHAPMAN UNIVERSITY,320,0,male
+2012,west,Quarterfinal,2,3,Men of Harmony,CHAPMAN UNIVERSITY,324,1,male
+2011,west,Quarterfinal,3,1,SoundCheck,CHAPMAN UNIVERSITY,438,2,coed
+2011,west,Quarterfinal,4,3,Men of Harmony,CHAPMAN UNIVERSITY,321,1,male
+2010,west,Quarterfinal,2,3,SoundCheck,CHAPMAN UNIVERSITY,305,1,coed
+2009,west,Quarterfinal,3,3,SoundCheck,CHAPMAN UNIVERSITY,331,1,coed
+2018,wildcard,Wildcard,1,1,After School Specials!,CLAREMONT MCKENNA COLLEGE,377,0,coed
+2018,west,Semifinal,1,3,After School Specials!,CLAREMONT MCKENNA COLLEGE,323,2,coed
+2018,west,Quarterfinal,2,2,After School Specials!,CLAREMONT MCKENNA COLLEGE,376,1,coed
+2016,southwest,Quarterfinal,1,1,After School Specials!,CLAREMONT MCKENNA COLLEGE,392,2,coed
+2014,west,Quarterfinal,5,1,After School Specials!,CLAREMONT MCKENNA COLLEGE,413,2,coed
+2011,south,Quarterfinal,1,3,TakeNote,CLEMSON UNIVERSITY,310,0,female
+2010,south,Semifinal,1,2,Tigeroar,CLEMSON UNIVERSITY,313,0,male
+2010,south,Quarterfinal,4,1,Tigeroar,CLEMSON UNIVERSITY,403,0,male
+2019,mid-atlantic,Quarterfinal,3,3,Trentones,THE COLLEGE OF NEW JERSEY,338,1,coed
+2018,mid-atlantic,Quarterfinal,5,2,Trentones,THE COLLEGE OF NEW JERSEY,358,1,coed
+2013,mid-atlantic,Quarterfinal,1,2,Trentones,THE COLLEGE OF NEW JERSEY,387,0,coed
+2010,mid-atlantic,Quarterfinal,1,3,Trentones,THE COLLEGE OF NEW JERSEY,277,0,coed
+2009,mid-atlantic,Quarterfinal,3,3,Trentones,THE COLLEGE OF NEW JERSEY,344,1,coed
+2018,central,Quarterfinal,1,3,Other Guys,THE COLLEGE OF SAINT ROSE,304,1,male
+2016,northeast,Quarterfinal,3,3,Other Guys,THE COLLEGE OF SAINT ROSE,271,1,male
+2016,northeast,Quarterfinal,3,2,Girls Next Door,THE COLLEGE OF SAINT ROSE,290,1,female
+2013,northeast,Quarterfinal,3,2,Girls Next Door,THE COLLEGE OF SAINT ROSE,288,1,female
+2012,northeast,Quarterfinal,1,1,Girls Next Door,THE COLLEGE OF SAINT ROSE,387,0,female
+2019,south,Quarterfinal,2,1,No Ceiling,COLLEGE OF WILLIAM AND MARY,407,1,coed
+2018,mid-atlantic,Semifinal,1,2,No Ceiling,COLLEGE OF WILLIAM AND MARY,349,2,coed
+2018,mid-atlantic,Quarterfinal,1,1,No Ceiling,COLLEGE OF WILLIAM AND MARY,391,1,coed
+2017,south,Quarterfinal,3,1,No Ceiling,COLLEGE OF WILLIAM AND MARY,432,1,coed
+2016,south,Quarterfinal,5,2,No Ceiling,COLLEGE OF WILLIAM AND MARY,322,0,coed
+2010,south,Quarterfinal,4,2,DoubleTake,COLLEGE OF WILLIAM AND MARY,365,2,coed
+2008,south,Quarterfinal,3,2,DoubleTake,COLLEGE OF WILLIAM AND MARY,364,1,coed
+2007,south,Quarterfinal,3,2,DoubleTake,COLLEGE OF WILLIAM AND MARY,294,0,coed
+2017,northeast,Quarterfinal,1,3,Tonal Recall,COLLEGES OF THE FENWAY,322,0,coed
+2019,southwest,Quarterfinal,5,3,OneSound,COLLIN COUNTY COMMUNITY COLLEGE DISTRICT,329,0,coed
+2013,mid-atlantic,Quarterfinal,3,3,SHARP,COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK,328,0,male
+2011,northeast,Quarterfinal,2,2,Nonsequitur,COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK,357,1,coed
+2009,northeast,Quarterfinal,3,1,Nonsequitur,COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK,427,1,coed
+2008,northeast,Quarterfinal,4,2,Clefhangers,COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK,329,2,coed
+2013,mid-atlantic,Semifinal,1,1,Chordials,CORNELL UNIVERSITY,366,1,coed
+2013,mid-atlantic,Quarterfinal,4,1,Chordials,CORNELL UNIVERSITY,393,1,coed
+2013,final,Final,1,3,Chordials,CORNELL UNIVERSITY,352,0,coed
+2012,mid-atlantic,Quarterfinal,3,3,Hangovers,CORNELL UNIVERSITY,281,0,male
+2012,mid-atlantic,Quarterfinal,3,1,Class Notes,CORNELL UNIVERSITY,363,2,coed
+2006,new england,Quarterfinal,2,2,Dodecaphonics,DARTMOUTH COLLEGE,376,0,coed
+2007,mid-atlantic,Quarterfinal,4,2,36 Madison Avenue,DREW UNIVERSITY,336,3,male
+2019,mid-atlantic,Quarterfinal,5,3,Treblemakers,DREXEL UNIVERSITY,278,0,female
+2012,mid-atlantic,Quarterfinal,2,2,8 to the Bar,DREXEL UNIVERSITY,330,0,male
+2014,south,Quarterfinal,2,1,Rhythm & Blue,DUKE UNIVERSITY,370,2,coed
+2019,united kingdom,Quarterfinal,1,1,Northern Lights,DURHAM UNIVERSITY,408,1,coed
+2018,united kingdom,Semifinal,1,3,Northern Lights,DURHAM UNIVERSITY,327,0,coed
+2018,united kingdom,Quarterfinal,1,1,Northern Lights,DURHAM UNIVERSITY,388,2,coed
+2017,united kingdom,Quarterfinal,3,1,Northern Lights,DURHAM UNIVERSITY,378,2,coed
+2016,united kingdom,Quarterfinal,1,2,Northern Lights,DURHAM UNIVERSITY,313,2,coed
+2015,mid-atlantic,Quarterfinal,3,3,Melica,ELIZABETHTOWN COLLEGE,311,0,female
+2014,mid-atlantic,Quarterfinal,3,2,Vocalign,ELIZABETHTOWN COLLEGE,302,1,coed
+2014,mid-atlantic,Quarterfinal,3,1,Melica,ELIZABETHTOWN COLLEGE,318,1,female
+2012,mid-atlantic,Quarterfinal,3,2,Phalanx,ELIZABETHTOWN COLLEGE,321,1,male
+2010,mid-atlantic,Quarterfinal,2,3,Phalanx,ELIZABETHTOWN COLLEGE,311,0,male
+2006,mid-atlantic,Quarterfinal,1,3,Melica,ELIZABETHTOWN COLLEGE,355,0,female
+2017,south,Quarterfinal,4,3,Vital Signs,ELON UNIVERSITY,291,0,coed
+2016,south,Quarterfinal,2,3,Vital Signs,ELON UNIVERSITY,295,0,coed
+2008,south,Quarterfinal,3,3,Sweet Signatures,ELON UNIVERSITY,351,1,female
+2015,northeast,Quarterfinal,3,2,Acappellics Anonymous,EMERSON COLLEGE,317,1,coed
+2014,northeast,Quarterfinal,4,1,Acappellics Anonymous,EMERSON COLLEGE,399,1,coed
+2016,northeast,Quarterfinal,4,3,Acapocalypse,EMMANUEL COLLEGE,298,0,coed
+2014,northeast,Quarterfinal,2,1,For Good Measure,EMMANUEL COLLEGE,340,1,female
+2015,south,Quarterfinal,2,1,Aural Pleasure,EMORY UNIVERSITY,351,0,coed
+2013,south,Semifinal,1,3,Dooley Noted,EMORY UNIVERSITY,318,0,coed
+2013,south,Quarterfinal,5,1,Dooley Noted,EMORY UNIVERSITY,422,2,coed
+2011,south,Quarterfinal,2,3,Dooley Noted,EMORY UNIVERSITY,347,1,coed
+2010,south,Quarterfinal,2,3,Dooley Noted,EMORY UNIVERSITY,324,1,coed
+2019,south,Quarterfinal,4,2,Vox,FLORIDA STATE UNIVERSITY,374,1,coed
+2018,south,Semifinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,402,0,coed
+2018,south,Quarterfinal,1,2,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,407,0,coed
+2018,south,Quarterfinal,3,3,AcaBelles,FLORIDA STATE UNIVERSITY,350,1,female
+2017,south,Quarterfinal,2,2,Acaphiliacs,FLORIDA STATE UNIVERSITY,398,1,coed
+2016,wildcard,Wildcard,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,362,0,coed
+2016,south,Semifinal,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,375,0,coed
+2016,south,Quarterfinal,4,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,443,2,coed
+2016,south,Quarterfinal,4,2,Acaphiliacs,FLORIDA STATE UNIVERSITY,410,0,coed
+2016,south,Quarterfinal,4,3,AcaBelles,FLORIDA STATE UNIVERSITY,376,0,female
+2015,south,Semifinal,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,385,1,coed
+2015,south,Quarterfinal,4,2,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,397,2,coed
+2015,south,Quarterfinal,4,1,Acaphiliacs,FLORIDA STATE UNIVERSITY,413,1,coed
+2015,south,Quarterfinal,4,3,AcaBelles,FLORIDA STATE UNIVERSITY,349,0,female
+2014,south,Semifinal,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,329,1,coed
+2014,south,Quarterfinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,406,2,coed
+2014,south,Quarterfinal,4,2,Acaphiliacs,FLORIDA STATE UNIVERSITY,397,1,coed
+2014,south,Quarterfinal,4,3,AcaBelles,FLORIDA STATE UNIVERSITY,365,1,female
+2013,south,Semifinal,1,1,Reverb,FLORIDA STATE UNIVERSITY,403,1,male
+2013,south,Quarterfinal,1,1,Reverb,FLORIDA STATE UNIVERSITY,426,1,male
+2013,south,Quarterfinal,2,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,422,2,coed
+2013,south,Quarterfinal,5,3,Acaphiliacs,FLORIDA STATE UNIVERSITY,NA,0,coed
+2013,south,Quarterfinal,5,2,AcaBelles,FLORIDA STATE UNIVERSITY,418,1,female
+2012,south,Quarterfinal,3,1,Reverb,FLORIDA STATE UNIVERSITY,414,2,male
+2012,south,Quarterfinal,3,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,324,0,coed
+2012,wildcard,Wildcard,1,3,AcaBelles,FLORIDA STATE UNIVERSITY,353,0,female
+2012,south,Semifinal,1,2,AcaBelles,FLORIDA STATE UNIVERSITY,360,3,female
+2012,south,Quarterfinal,3,2,AcaBelles,FLORIDA STATE UNIVERSITY,410,1,female
+2011,south,Semifinal,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,390,1,coed
+2011,south,Quarterfinal,4,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,434,2,coed
+2011,south,Semifinal,1,1,AcaBelles,FLORIDA STATE UNIVERSITY,430,1,female
+2011,south,Quarterfinal,4,2,AcaBelles,FLORIDA STATE UNIVERSITY,411,1,female
+2010,wildcard,Wildcard,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,332,0,coed
+2010,south,Semifinal,1,3,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,310,1,coed
+2010,south,Quarterfinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,412,2,coed
+2010,south,Quarterfinal,1,3,AcaBelles,FLORIDA STATE UNIVERSITY,323,0,female
+2009,south,Quarterfinal,3,2,Reverb,FLORIDA STATE UNIVERSITY,345,1,male
+2009,south,Semifinal,1,1,AcaBelles,FLORIDA STATE UNIVERSITY,437,1,female
+2009,south,Quarterfinal,3,1,AcaBelles,FLORIDA STATE UNIVERSITY,423,1,female
+2008,south,Semifinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,437,2,coed
+2008,south,Quarterfinal,2,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,432,2,coed
+2008,final,Final,1,2,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,384,0,coed
+2007,south,Semifinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,422,1,coed
+2007,south,Quarterfinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,431,4,coed
+2006,south,Semifinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,402,1,coed
+2006,south,Quarterfinal,1,1,All-Night Yahtzee,FLORIDA STATE UNIVERSITY,409,2,coed
+2017,northeast,Quarterfinal,4,2,Hot Notes,FORDHAM UNIVERSITY,342,0,coed
+2016,mid-atlantic,Quarterfinal,5,3,Ramblers,FORDHAM UNIVERSITY,294,0,male
+2016,mid-atlantic,Quarterfinal,2,2,Hot Notes,FORDHAM UNIVERSITY,383,1,coed
+2014,mid-atlantic,Quarterfinal,4,2,Ramblers,FORDHAM UNIVERSITY,308,1,male
+2013,mid-atlantic,Semifinal,1,2,Ramblers,FORDHAM UNIVERSITY,340,1,male
+2013,mid-atlantic,Quarterfinal,1,1,Ramblers,FORDHAM UNIVERSITY,417,1,male
+2010,northeast,Semifinal,1,3,Ramblers,FORDHAM UNIVERSITY,327,2,male
+2010,northeast,Quarterfinal,2,2,Ramblers,FORDHAM UNIVERSITY,333,3,male
+2008,west,Quarterfinal,1,2,These Guys,CALIFORNIA STATE UNIVERSITY-FULLERTON,368,1,NA
+2017,northwest,Quarterfinal,1,3,Quakers & Notes,GEORGE FOX UNIVERSITY,362,1,coed
+2019,mid-atlantic,Quarterfinal,1,2,Mason Some Noise,GEORGE MASON UNIVERSITY,319,3,coed
+2019,mid-atlantic,Quarterfinal,1,1,Vibes,GEORGE WASHINGTON UNIVERSITY,423,2,coed
+2018,mid-atlantic,Quarterfinal,1,2,Vibes,GEORGE WASHINGTON UNIVERSITY,364,2,coed
+2017,mid-atlantic,Quarterfinal,2,2,Vibes,GEORGE WASHINGTON UNIVERSITY,360,2,coed
+2017,mid-atlantic,Quarterfinal,3,1,Superfood,GEORGETOWN UNIVERSITY,383,2,coed
+2015,mid-atlantic,Quarterfinal,1,2,Superfood,GEORGETOWN UNIVERSITY,371,2,coed
+2010,south,Quarterfinal,3,2,Phantoms,GEORGETOWN UNIVERSITY,360,1,coed
+2019,south,Quarterfinal,3,2,Infinite Harmony,GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS,344,0,coed
+2018,south,Quarterfinal,3,1,Sympathetic Vibrations,GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS,409,1,male
+2017,south,Semifinal,1,2,Sympathetic Vibrations,GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS,353,1,male
+2017,south,Quarterfinal,4,1,Sympathetic Vibrations,GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS,409,1,male
+2006,south,Quarterfinal,1,3,Sympathetic Vibrations,GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS,328,1,male
+2018,great lakes,Quarterfinal,4,2,Euphoria,GRAND VALLEY STATE UNIVERSITY,349,0,coed
+2017,great lakes,Quarterfinal,5,1,Euphoria,GRAND VALLEY STATE UNIVERSITY,402,2,coed
+2015,great lakes,Quarterfinal,3,3,GV Groove,GRAND VALLEY STATE UNIVERSITY,280,1,coed
+2019,northeast,Quarterfinal,1,3,Opportunes,HARVARD UNIVERSITY,309,0,coed
+2018,northeast,Quarterfinal,3,1,Under Construction,HARVARD UNIVERSITY,420,1,coed
+2018,northeast,Semifinal,1,2,Opportunes,HARVARD UNIVERSITY,344,1,coed
+2018,northeast,Quarterfinal,1,2,Opportunes,HARVARD UNIVERSITY,354,1,coed
+2018,northeast,Semifinal,1,3,Lowkeys,HARVARD UNIVERSITY,302,0,coed
+2018,northeast,Quarterfinal,2,1,Lowkeys,HARVARD UNIVERSITY,360,1,coed
+2017,northeast,Quarterfinal,3,3,Veritones,HARVARD UNIVERSITY,332,1,coed
+2017,northeast,Quarterfinal,1,2,Lowkeys,HARVARD UNIVERSITY,402,3,coed
+2016,northeast,Quarterfinal,4,1,Veritones,HARVARD UNIVERSITY,385,3,coed
+2015,northeast,Quarterfinal,1,2,Opportunes,HARVARD UNIVERSITY,371,1,coed
+2014,northeast,Quarterfinal,2,3,Callbacks,HARVARD UNIVERSITY,293,0,coed
+2011,northeast,Quarterfinal,1,2,Opportunes,HARVARD UNIVERSITY,368,1,coed
+2010,northeast,Quarterfinal,1,3,Lowkeys,HARVARD UNIVERSITY,321,0,coed
+2009,northeast,Quarterfinal,2,2,Opportunes,HARVARD UNIVERSITY,349,1,coed
+2009,northeast,Quarterfinal,4,2,Lowkeys,HARVARD UNIVERSITY,338,1,coed
+2007,new england,Quarterfinal,3,1,Lowkeys,HARVARD UNIVERSITY,343,2,coed
+2006,new england,Semifinal,1,3,Lowkeys,HARVARD UNIVERSITY,329,1,coed
+2006,new england,Quarterfinal,2,1,Lowkeys,HARVARD UNIVERSITY,408,2,coed
+2018,southwest,Semifinal,1,3,Millennial Vibe,HASTINGS COLLEGE,319,1,coed
+2018,southwest,Quarterfinal,2,2,Millennial Vibe,HASTINGS COLLEGE,404,1,coed
+2009,midwest,Quarterfinal,4,3,NA,HASTINGS COLLEGE,305,0,NA
+2014,mid-atlantic,Quarterfinal,2,3,Outskirts,HAVERFORD COLLEGE,309,1,female
+2009,mid-atlantic,Quarterfinal,4,3,Ford S-Chords,HAVERFORD COLLEGE,306,1,male
+2019,northeast,Quarterfinal,5,2,Sigma'cappella,HOFSTRA UNIVERSITY,343,0,coed
+2018,mid-atlantic,Quarterfinal,5,3,Sigma’cappella,HOFSTRA UNIVERSITY,344,2,coed
+2018,mid-atlantic,Quarterfinal,5,1,Hofbeats,HOFSTRA UNIVERSITY,360,0,coed
+2017,mid-atlantic,Quarterfinal,4,2,Sigma'cappella,HOFSTRA UNIVERSITY,335,1,coed
+2015,northeast,Quarterfinal,2,1,Sigma'cappella,HOFSTRA UNIVERSITY,398,1,coed
+2019,great lakes,Quarterfinal,4,2,Clefhangers,ILLINOIS STATE UNIVERSITY,314,2,coed
+2019,great lakes,Quarterfinal,1,3,Acafellaz,ILLINOIS STATE UNIVERSITY,323,0,male
+2018,great lakes,Quarterfinal,2,2,Secondary Dominance,ILLINOIS STATE UNIVERSITY,338,1,female
+2017,great lakes,Quarterfinal,4,3,Acafellaz,ILLINOIS STATE UNIVERSITY,332,1,male
+2016,great lakes,Quarterfinal,2,3,Acafellaz,ILLINOIS STATE UNIVERSITY,302,0,male
+2010,midwest,Quarterfinal,3,2,Secondary Dominance,ILLINOIS STATE UNIVERSITY,327,1,female
+2017,united kingdom,Quarterfinal,1,3,Scopes,IMPERIAL COLLEGE LONDON,313,0,coed
+2016,united kingdom,Semifinal,1,1,Techtonics,IMPERIAL COLLEGE LONDON,414,1,male
+2016,united kingdom,Quarterfinal,1,1,Techtonics,IMPERIAL COLLEGE LONDON,412,2,male
+2016,final,Final,1,1,Techtonics,IMPERIAL COLLEGE LONDON,384,0,male
+2016,united kingdom,Quarterfinal,1,3,Scopes,IMPERIAL COLLEGE LONDON,268,0,coed
+2013,great lakes,Quarterfinal,4,1,Shades of Hue,INDIANA UNIVERSITY-BLOOMINGTON,388,1,coed
+2019,central,Quarterfinal,1,3,Voicestream,ITHACA COLLEGE,368,0,coed
+2019,central,Semifinal,1,2,Ithacappella,ITHACA COLLEGE,326,0,male
+2019,central,Quarterfinal,1,2,Ithacappella,ITHACA COLLEGE,392,0,male
+2018,central,Quarterfinal,3,3,Voicestream,ITHACA COLLEGE,296,0,coed
+2017,central,Quarterfinal,3,1,Voicestream,ITHACA COLLEGE,369,0,coed
+2016,central,Semifinal,1,3,Premium Blend,ITHACA COLLEGE,316,0,female
+2016,central,Quarterfinal,1,1,Premium Blend,ITHACA COLLEGE,435,2,female
+2015,northeast,Quarterfinal,1,3,Ithacappella,ITHACA COLLEGE,327,1,male
+2014,mid-atlantic,Quarterfinal,5,2,Voicestream,ITHACA COLLEGE,328,2,coed
+2009,mid-atlantic,Semifinal,1,1,Ithacappella,ITHACA COLLEGE,403,2,male
+2009,mid-atlantic,Quarterfinal,1,1,Ithacappella,ITHACA COLLEGE,403,2,male
+2007,mid-atlantic,Quarterfinal,1,3,Premium Blend,ITHACA COLLEGE,326,0,female
+2007,mid-atlantic,Semifinal,1,2,Ithacappella,ITHACA COLLEGE,323,0,male
+2007,mid-atlantic,Quarterfinal,4,1,Ithacappella,ITHACA COLLEGE,378,0,male
+2006,mid-atlantic,Quarterfinal,4,3,Premium Blend,ITHACA COLLEGE,351,0,female
+2006,mid-atlantic,Semifinal,1,2,Ithacappella,ITHACA COLLEGE,383,0,male
+2006,mid-atlantic,Quarterfinal,4,2,Ithacappella,ITHACA COLLEGE,396,1,male
+2019,mid-atlantic,Quarterfinal,1,3,Note-oriety,JAMES MADISON UNIVERSITY,315,0,female
+2016,south,Quarterfinal,1,1,Bluestones,JAMES MADISON UNIVERSITY,361,1,female
+2015,south,Quarterfinal,3,3,Bluestones,JAMES MADISON UNIVERSITY,310,1,female
+2012,south,Quarterfinal,2,3,Bluestones,JAMES MADISON UNIVERSITY,318,0,female
+2009,south,Quarterfinal,1,3,Bluestones,JAMES MADISON UNIVERSITY,349,0,female
+2008,south,Quarterfinal,1,2,Madison Project,JAMES MADISON UNIVERSITY,401,1,male
+2017,mid-atlantic,Quarterfinal,5,3,Vocal Chords,JOHNS HOPKINS UNIVERSITY,323,1,coed
+2016,mid-atlantic,Quarterfinal,4,1,Octopodes,JOHNS HOPKINS UNIVERSITY,429,2,coed
+2016,mid-atlantic,Quarterfinal,4,3,AllNighters,JOHNS HOPKINS UNIVERSITY,323,1,male
+2015,mid-atlantic,Quarterfinal,2,2,Octopodes,JOHNS HOPKINS UNIVERSITY,404,1,coed
+2013,south,Quarterfinal,4,1,Octopodes,JOHNS HOPKINS UNIVERSITY,428,2,coed
+2013,south,Quarterfinal,4,3,AllNighters,JOHNS HOPKINS UNIVERSITY,329,1,male
+2012,south,Quarterfinal,4,1,Octopodes,JOHNS HOPKINS UNIVERSITY,426,2,coed
+2011,south,Quarterfinal,3,3,Vocal Chords,JOHNS HOPKINS UNIVERSITY,307,0,coed
+2011,south,Quarterfinal,3,1,Octopodes,JOHNS HOPKINS UNIVERSITY,415,2,coed
+2010,south,Quarterfinal,3,3,Octopodes,JOHNS HOPKINS UNIVERSITY,349,1,coed
+2009,mid-atlantic,Quarterfinal,3,2,AllNighters,JOHNS HOPKINS UNIVERSITY,348,1,male
+2007,south,Quarterfinal,2,2,Octopodes,JOHNS HOPKINS UNIVERSITY,339,2,coed
+2007,south,Quarterfinal,2,3,AllNighters,JOHNS HOPKINS UNIVERSITY,327,1,male
+2018,midwest,Quarterfinal,1,2,Kent Clarks,KENT STATE UNIVERSITY,356,1,coed
+2016,central,Quarterfinal,2,3,Kent Clarks,KENT STATE UNIVERSITY,344,1,coed
+2015,great lakes,Quarterfinal,1,3,Kent Clarks,KENT STATE UNIVERSITY AT KENT,279,0,coed
+2018,united kingdom,Semifinal,1,1,Rolling Tones,KING'S COLLEGE LONDON,432,1,female
+2018,united kingdom,Quarterfinal,3,1,Rolling Tones,KING'S COLLEGE LONDON,407,1,female
+2017,united kingdom,Semifinal,1,2,Rolling Tones,KING'S COLLEGE LONDON,344,0,female
+2017,united kingdom,Quarterfinal,1,1,Rolling Tones,KING'S COLLEGE LONDON,420,3,female
+2015,united kingdom,Semifinal,1,1,All The King's Men,KING'S COLLEGE LONDON,371,1,male
+2014,international,Semifinal,1,1,All The King's Men,KING'S COLLEGE LONDON,364,0,male
+2012,final,Final,1,3,All The King's Men,KING'S COLLEGE LONDON,350,0,male
+2017,mid-atlantic,Quarterfinal,1,3,Soulfege,LAFAYETTE COLLEGE,296,1,coed
+2006,mid-atlantic,Quarterfinal,1,2,Chorduroys,LAFAYETTE COLLEGE,365,1,male
+2019,mid-atlantic,Quarterfinal,4,3,Melismatics,LEHIGH UNIVERSITY,327,0,coed
+2017,mid-atlantic,Quarterfinal,4,1,Melismatics,LEHIGH UNIVERSITY,355,2,coed
+2016,mid-atlantic,Quarterfinal,3,1,Melismatics,LEHIGH UNIVERSITY,414,1,coed
+2012,mid-atlantic,Quarterfinal,2,3,Melismatics,LEHIGH UNIVERSITY,312,0,coed
+2010,mid-atlantic,Quarterfinal,1,2,Melismatics,LEHIGH UNIVERSITY,346,1,coed
+2009,mid-atlantic,Quarterfinal,3,1,Melismatics,LEHIGH UNIVERSITY,387,2,coed
+2009,mid-atlantic,Quarterfinal,1,3,A Whole Step Up,LEHIGH UNIVERSITY,285,0,male
+2018,west,Quarterfinal,1,3,Blue Light Special,LINN-BENTON COMMUNITY COLLEGE,243,1,male
+2008,south,Quarterfinal,1,3,Belles,LOYOLA UNIVERSITY MARYLAND,383,2,female
+2018,great lakes,Quarterfinal,2,3,Counterpoint,LOYOLA UNIVERSITY CHICAGO,309,0,coed
+2007,midwest,Quarterfinal,3,3,Undeclared,LUTHER COLLEGE,309,1,male
+2017,northeast,Quarterfinal,4,3,Triplets,MACAULAY HONORS COLLEGE AT CUNY,297,1,coed
+2019,great lakes,Quarterfinal,1,1,Naturals,MARQUETTE UNIVERSITY,421,1,male
+2015,midwest,Quarterfinal,3,2,Naturals,MARQUETTE UNIVERSITY,351,0,male
+2013,northeast,Quarterfinal,4,2,Allegrettos,MASSACHUSETTS COLLEGE OF LIBERAL ARTS,332,0,coed
+2009,northeast,Semifinal,1,2,Effusion,MCGILL UNIVERSITY,373,0,coed
+2009,northeast,Quarterfinal,1,2,Effusion,MCGILL UNIVERSITY,416,1,coed
+2007,northeast,Semifinal,1,3,Solstice,MCGILL UNIVERSITY,287,0,coed
+2007,northeast,Quarterfinal,4,1,Solstice,MCGILL UNIVERSITY,418,3,coed
+2006,northeast,Quarterfinal,3,1,Solstice,MCGILL UNIVERSITY,392,2,coed
+2006,northeast,Semifinal,1,1,Effusion,MCGILL UNIVERSITY,402,1,coed
+2006,northeast,Quarterfinal,3,2,Effusion,MCGILL UNIVERSITY,349,1,coed
+2015,great lakes,Quarterfinal,4,3,Soul2Soul,MIAMI UNIVERSITY-OXFORD,308,1,male
+2014,great lakes,Quarterfinal,5,1,Soul2Soul,MIAMI UNIVERSITY-OXFORD,407,3,male
+2009,midwest,Quarterfinal,1,3,Misfitz,MIAMI UNIVERSITY-OXFORD,362,3,female
+2007,midwest,Quarterfinal,1,3,Misfitz,MIAMI UNIVERSITY-OXFORD,317,0,female
+2006,mid-atlantic,Quarterfinal,2,2,Misfitz,MIAMI UNIVERSITY-OXFORD,369,0,female
+2019,great lakes,Quarterfinal,3,1,State of Fifths,MICHIGAN STATE UNIVERSITY,389,1,coed
+2019,great lakes,Quarterfinal,3,3,Accafellas,MICHIGAN STATE UNIVERSITY,301,0,male
+2018,great lakes,Quarterfinal,4,1,State of Fifths,MICHIGAN STATE UNIVERSITY,366,1,coed
+2018,great lakes,Quarterfinal,4,3,Capital Green,MICHIGAN STATE UNIVERSITY,330,0,coed
+2017,great lakes,Quarterfinal,5,3,State of Fifths,MICHIGAN STATE UNIVERSITY,330,0,coed
+2017,great lakes,Quarterfinal,5,2,Ladies First,MICHIGAN STATE UNIVERSITY,390,1,female
+2016,great lakes,Quarterfinal,2,2,State of Fifths,MICHIGAN STATE UNIVERSITY,307,0,coed
+2016,great lakes,Quarterfinal,5,2,Ladies First,MICHIGAN STATE UNIVERSITY,387,0,female
+2016,great lakes,Quarterfinal,5,3,Accafellas,MICHIGAN STATE UNIVERSITY,281,0,male
+2015,great lakes,Semifinal,1,2,State of Fifths,MICHIGAN STATE UNIVERSITY,340,0,coed
+2015,great lakes,Quarterfinal,1,2,State of Fifths,MICHIGAN STATE UNIVERSITY,356,0,coed
+2015,great lakes,Quarterfinal,3,1,Capital Green,MICHIGAN STATE UNIVERSITY,373,2,coed
+2015,great lakes,Quarterfinal,3,2,Accafellas,MICHIGAN STATE UNIVERSITY,336,0,male
+2014,great lakes,Semifinal,1,2,State of Fifths,MICHIGAN STATE UNIVERSITY,348,1,coed
+2014,great lakes,Quarterfinal,1,1,State of Fifths,MICHIGAN STATE UNIVERSITY,401,1,coed
+2014,great lakes,Quarterfinal,1,2,Ladies First,MICHIGAN STATE UNIVERSITY,372,3,female
+2014,great lakes,Quarterfinal,1,3,Accafellas,MICHIGAN STATE UNIVERSITY,288,0,male
+2013,great lakes,Quarterfinal,1,3,State of Fifths,MICHIGAN STATE UNIVERSITY,NA,2,coed
+2013,great lakes,Quarterfinal,1,2,Capital Green,MICHIGAN STATE UNIVERSITY,354,0,coed
+2013,great lakes,Semifinal,1,2,Accafellas,MICHIGAN STATE UNIVERSITY,339,0,male
+2013,great lakes,Quarterfinal,1,1,Accafellas,MICHIGAN STATE UNIVERSITY,375,1,male
+2012,midwest,Quarterfinal,5,3,State of Fifths,MICHIGAN STATE UNIVERSITY,331,0,coed
+2012,midwest,Quarterfinal,3,3,Accafellas,MICHIGAN STATE UNIVERSITY,338,2,male
+2011,midwest,Quarterfinal,2,3,Capital Green,MICHIGAN STATE UNIVERSITY,344,0,coed
+2009,midwest,Quarterfinal,2,1,Capital Green,MICHIGAN STATE UNIVERSITY,400,0,coed
+2008,midwest,Quarterfinal,3,3,Capital Green,MICHIGAN STATE UNIVERSITY,312,0,coed
+2008,midwest,Quarterfinal,2,1,Accafellas,MICHIGAN STATE UNIVERSITY,431,2,male
+2007,midwest,Quarterfinal,3,2,Capital Green,MICHIGAN STATE UNIVERSITY,357,1,coed
+2006,midwest,Quarterfinal,1,3,Spartan Dischords,MICHIGAN STATE UNIVERSITY,358,1,male
+2006,midwest,Quarterfinal,1,2,Capital Green,MICHIGAN STATE UNIVERSITY,369,0,coed
+2006,midwest,Quarterfinal,1,1,Accafellas,MICHIGAN STATE UNIVERSITY,376,0,male
+2019,midwest,Quarterfinal,1,1,Dissonance,MILLIKIN UNIVERSITY,338,1,coed
+2007,midwest,Quarterfinal,4,2,5one,MILLIKIN UNIVERSITY,425,1,male
+2019,midwest,Quarterfinal,2,3,Hibernotes,MISSOURI STATE UNIVERSITY-SPRINGFIELD,323,1,coed
+2019,midwest,Quarterfinal,2,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,389,1,male
+2018,midwest,Quarterfinal,4,1,Hibernotes,MISSOURI STATE UNIVERSITY-SPRINGFIELD,383,3,coed
+2018,midwest,Semifinal,1,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,388,1,male
+2018,midwest,Quarterfinal,4,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,363,0,male
+2018,midwest,Quarterfinal,4,3,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,335,1,female
+2017,midwest,Semifinal,1,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,346,1,male
+2017,midwest,Quarterfinal,4,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,343,1,male
+2016,midwest,Semifinal,1,2,Hibernotes,MISSOURI STATE UNIVERSITY-SPRINGFIELD,304,0,coed
+2016,midwest,Quarterfinal,2,1,Hibernotes,MISSOURI STATE UNIVERSITY-SPRINGFIELD,395,2,coed
+2016,midwest,Semifinal,1,3,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,302,0,male
+2016,midwest,Quarterfinal,5,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,338,2,male
+2015,midwest,Quarterfinal,4,3,Hibernotes,MISSOURI STATE UNIVERSITY-SPRINGFIELD,360,1,coed
+2015,midwest,Quarterfinal,4,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,422,2,male
+2014,midwest,Semifinal,1,3,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,324,0,male
+2014,midwest,Quarterfinal,2,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,380,0,male
+2014,midwest,Quarterfinal,2,3,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,345,1,female
+2013,midwest,Quarterfinal,2,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,350,1,male
+2013,midwest,Quarterfinal,3,3,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,337,0,female
+2012,midwest,Quarterfinal,4,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,331,0,male
+2012,midwest,Quarterfinal,4,1,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,389,2,female
+2011,midwest,Quarterfinal,3,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,366,0,male
+2011,midwest,Quarterfinal,1,1,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,450,1,female
+2010,midwest,Quarterfinal,3,1,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,382,0,female
+2009,midwest,Semifinal,1,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,401,1,male
+2009,midwest,Quarterfinal,1,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,370,1,male
+2009,final,Final,1,3,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,361,0,male
+2009,midwest,Quarterfinal,4,2,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,406,1,female
+2008,midwest,Quarterfinal,4,1,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,429,2,male
+2008,midwest,Semifinal,1,3,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,327,0,female
+2008,midwest,Quarterfinal,4,2,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,363,0,female
+2007,midwest,Quarterfinal,4,3,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,345,0,male
+2007,midwest,Quarterfinal,4,1,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,440,1,female
+2006,midwest,Quarterfinal,3,2,Beartones,MISSOURI STATE UNIVERSITY-SPRINGFIELD,384,1,male
+2006,midwest,Semifinal,1,2,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,370,1,female
+2006,midwest,Quarterfinal,3,1,A Cub Bella,MISSOURI STATE UNIVERSITY-SPRINGFIELD,424,1,female
+2012,northeast,Quarterfinal,1,2,Chorallaries,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,364,0,coed
+2009,northeast,Quarterfinal,3,2,Chorallaries,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,370,2,coed
+2006,new england,Semifinal,1,1,Chorallaries,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,399,0,coed
+2006,new england,Quarterfinal,1,3,Chorallaries,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,NA,0,coed
+2006,new england,Quarterfinal,4,1,Chorallaries,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,363,1,coed
+2010,northeast,Quarterfinal,4,3,V8s,MOUNT HOLYOKE COLLEGE,346,1,female
+2006,new england,Quarterfinal,1,2,M&Cs,MOUNT HOLYOKE COLLEGE,367,1,female
+2017,southwest,Quarterfinal,3,2,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,338,0,male
+2016,southwest,Semifinal,1,3,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,303,0,male
+2016,southwest,Quarterfinal,1,2,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,383,1,male
+2015,west,Quarterfinal,4,3,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,345,2,male
+2014,west,Quarterfinal,5,2,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,402,1,male
+2012,west,Semifinal,1,3,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,374,1,male
+2012,west,Quarterfinal,4,1,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,401,1,male
+2009,west,Semifinal,1,1,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,380,1,male
+2009,west,Quarterfinal,3,1,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,426,2,male
+2009,final,Final,1,1,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,445,3,male
+2008,west,Quarterfinal,4,1,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,433,1,male
+2006,west,Quarterfinal,2,3,Nothin’ But Treble,MT. SAN ANTONIO COLLEGE,345,1,female
+2006,west,Quarterfinal,2,2,Fermata Nowhere,MT. SAN ANTONIO COLLEGE,411,2,male
+2017,midwest,Quarterfinal,2,3,EQ Blu,MURRAY STATE UNIVERSITY,298,1,coed
+2013,international,Semifinal,1,2,Vive,NA,350,0,coed
+2013,international,Semifinal,1,1,Sons of Pitches,NA,363,0,male
+2008,mid-atlantic,Semifinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Semifinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Semifinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,1,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,2,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,2,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,2,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,3,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,3,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,3,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,4,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,4,NA,NA,NA,NA,NA,NA
+2008,mid-atlantic,Quarterfinal,4,NA,NA,NA,NA,NA,NA
+2019,northeast,Quarterfinal,5,1,Vocaholics,NEW YORK UNIVERSITY,422,3,coed
+2019,final,Final,1,1,N’Harmonics,NEW YORK UNIVERSITY,444,2,coed
+2019,northeast,Semifinal,1,1,N’Harmonics,NEW YORK UNIVERSITY,364,0,coed
+2019,northeast,Quarterfinal,3,1,N’Harmonics,NEW YORK UNIVERSITY,433,3,coed
+2019,northeast,Quarterfinal,3,3,Mixtapes,NEW YORK UNIVERSITY,315,0,coed
+2018,northeast,Quarterfinal,4,3,Vocaholics,NEW YORK UNIVERSITY,277,0,coed
+2018,northeast,Quarterfinal,4,1,Mixtapes,NEW YORK UNIVERSITY,364,1,coed
+2017,wildcard,Wildcard,1,3,N’Harmonics,NEW YORK UNIVERSITY,342,0,coed
+2017,northeast,Semifinal,1,3,N’Harmonics,NEW YORK UNIVERSITY,345,0,coed
+2017,northeast,Quarterfinal,4,1,N’Harmonics,NEW YORK UNIVERSITY,409,2,coed
+2016,mid-atlantic,Quarterfinal,5,1,Mixtapes,NEW YORK UNIVERSITY,392,2,coed
+2015,northeast,Quarterfinal,2,2,N’Harmonics,NEW YORK UNIVERSITY,373,1,coed
+2015,northeast,Quarterfinal,2,3,Mixtapes,NEW YORK UNIVERSITY,334,0,coed
+2014,mid-atlantic,Semifinal,1,1,N’Harmonics,NEW YORK UNIVERSITY,406,1,coed
+2014,mid-atlantic,Quarterfinal,4,1,N’Harmonics,NEW YORK UNIVERSITY,427,2,coed
+2013,mid-atlantic,Quarterfinal,1,3,N’Harmonics,NEW YORK UNIVERSITY,340,1,coed
+2012,northeast,Quarterfinal,2,1,N’Harmonics,NEW YORK UNIVERSITY,394,3,coed
+2012,northeast,Quarterfinal,4,1,APC Rhythm,NEW YORK UNIVERSITY,432,0,coed
+2011,wildcard,Wildcard,1,3,N’Harmonics,NEW YORK UNIVERSITY,324,0,coed
+2011,northeast,Semifinal,1,3,N’Harmonics,NEW YORK UNIVERSITY,366,2,coed
+2011,northeast,Quarterfinal,2,1,N’Harmonics,NEW YORK UNIVERSITY,430,2,coed
+2011,northeast,Quarterfinal,3,2,Ani V'ata,NEW YORK UNIVERSITY,313,1,coed
+2010,northeast,Quarterfinal,2,3,APC Rhythm,NEW YORK UNIVERSITY,327,0,coed
+2009,northeast,Quarterfinal,4,3,APC Rhythm,NEW YORK UNIVERSITY,313,2,coed
+2008,northeast,Semifinal,1,1,N’Harmonics,NEW YORK UNIVERSITY,430,2,coed
+2008,northeast,Quarterfinal,3,1,N’Harmonics,NEW YORK UNIVERSITY,390,2,coed
+2008,final,Final,1,3,N’Harmonics,NEW YORK UNIVERSITY,312,1,coed
+2008,northeast,Quarterfinal,4,3,APC Rhythm,NEW YORK UNIVERSITY,314,0,coed
+2007,northeast,Semifinal,1,2,N’Harmonics,NEW YORK UNIVERSITY,345,2,coed
+2007,northeast,Quarterfinal,2,1,N’Harmonics,NEW YORK UNIVERSITY,411,2,coed
+2006,northeast,Quarterfinal,4,1,N’Harmonics,NEW YORK UNIVERSITY,418,1,coed
+2019,south,Quarterfinal,2,2,Wolfgang,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,331,2,coed
+2018,south,Quarterfinal,4,1,Wolfgang,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,381,0,coed
+2018,south,Quarterfinal,4,3,Grains of Time,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,336,0,male
+2017,south,Quarterfinal,3,2,Acappology,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,363,0,coed
+2016,south,Quarterfinal,5,3,Wolfgang,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,308,0,coed
+2016,south,Quarterfinal,5,1,Grains of Time,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,412,3,male
+2015,south,Quarterfinal,5,1,Grains of Time,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,329,0,male
+2015,south,Quarterfinal,5,3,Acappology,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,293,1,coed
+2014,south,Quarterfinal,2,2,Grains of Time,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,367,1,male
+2012,south,Quarterfinal,1,2,Acappology,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,387,1,coed
+2011,south,Quarterfinal,1,2,Acappology,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,383,2,coed
+2006,south,Quarterfinal,2,2,Grains of Time,NORTH CAROLINA STATE UNIVERSITY AT RALEIGH,371,1,male
+2019,northeast,Semifinal,1,3,Treble on Huntington,NORTHEASTERN UNIVERSITY,348,0,female
+2019,northeast,Quarterfinal,1,2,Treble on Huntington,NORTHEASTERN UNIVERSITY,343,2,female
+2019,wildcard,Wildcard,1,1,"Pitch, Please",NORTHEASTERN UNIVERSITY,343,0,female
+2019,northeast,Semifinal,1,2,"Pitch, Please",NORTHEASTERN UNIVERSITY,349,0,female
+2019,northeast,Quarterfinal,2,1,"Pitch, Please",NORTHEASTERN UNIVERSITY,406,2,female
+2019,northeast,Quarterfinal,1,1,Downbeats,NORTHEASTERN UNIVERSITY,382,2,coed
+2019,northeast,Quarterfinal,2,3,Distilled Harmony,NORTHEASTERN UNIVERSITY,281,0,coed
+2018,northeast,Quarterfinal,3,3,Unisons,NORTHEASTERN UNIVERSITY,342,1,male
+2018,northeast,Quarterfinal,2,3,Treble on Huntington,NORTHEASTERN UNIVERSITY,319,0,female
+2018,northeast,Quarterfinal,1,3,"Pitch, Please",NORTHEASTERN UNIVERSITY,339,1,female
+2018,northeast,Quarterfinal,3,2,Distilled Harmony,NORTHEASTERN UNIVERSITY,401,3,coed
+2017,northeast,Semifinal,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,430,3,coed
+2017,northeast,Quarterfinal,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,444,1,coed
+2017,final,Final,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,402,1,coed
+2017,northeast,Quarterfinal,3,2,Downbeats,NORTHEASTERN UNIVERSITY,348,2,coed
+2017,northeast,Quarterfinal,2,1,Distilled Harmony,NORTHEASTERN UNIVERSITY,383,0,coed
+2016,northeast,Quarterfinal,1,2,Unisons,NORTHEASTERN UNIVERSITY,342,1,male
+2016,wildcard,Wildcard,1,2,Distilled Harmony,NORTHEASTERN UNIVERSITY,332,0,coed
+2016,northeast,Semifinal,1,2,Distilled Harmony,NORTHEASTERN UNIVERSITY,350,1,coed
+2016,northeast,Quarterfinal,5,2,Distilled Harmony,NORTHEASTERN UNIVERSITY,343,1,coed
+2015,northeast,Quarterfinal,3,3,Unisons,NORTHEASTERN UNIVERSITY,310,0,male
+2015,northeast,Quarterfinal,5,3,"Pitch, Please",NORTHEASTERN UNIVERSITY,294,0,female
+2015,wildcard,Wildcard,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,405,0,coed
+2015,northeast,Semifinal,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,398,0,coed
+2015,northeast,Quarterfinal,5,1,Nor'easters,NORTHEASTERN UNIVERSITY,400,1,coed
+2015,northeast,Quarterfinal,3,1,Distilled Harmony,NORTHEASTERN UNIVERSITY,383,1,coed
+2014,northeast,Quarterfinal,4,2,Unisons,NORTHEASTERN UNIVERSITY,328,0,male
+2014,northeast,Quarterfinal,3,2,"Pitch, Please",NORTHEASTERN UNIVERSITY,342,0,female
+2014,northeast,Quarterfinal,4,2,Downbeats,NORTHEASTERN UNIVERSITY,328,1,coed
+2014,northeast,Quarterfinal,4,3,Distilled Harmony,NORTHEASTERN UNIVERSITY,322,0,coed
+2013,wildcard,Wildcard,1,3,"Pitch, Please",NORTHEASTERN UNIVERSITY,343,0,female
+2013,northeast,Semifinal,1,3,"Pitch, Please",NORTHEASTERN UNIVERSITY,310,1,female
+2013,northeast,Quarterfinal,4,1,"Pitch, Please",NORTHEASTERN UNIVERSITY,401,2,female
+2013,northeast,Semifinal,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,431,2,coed
+2013,northeast,Quarterfinal,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,422,1,coed
+2013,final,Final,1,1,Nor'easters,NORTHEASTERN UNIVERSITY,415,1,coed
+2013,northeast,Quarterfinal,2,3,Downbeats,NORTHEASTERN UNIVERSITY,328,0,coed
+2013,northeast,Quarterfinal,2,1,Distilled Harmony,NORTHEASTERN UNIVERSITY,337,1,coed
+2012,wildcard,Wildcard,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,375,0,coed
+2012,northeast,Semifinal,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,352,0,coed
+2012,northeast,Quarterfinal,3,1,Nor'easters,NORTHEASTERN UNIVERSITY,400,2,coed
+2012,northeast,Quarterfinal,3,3,Downbeats,NORTHEASTERN UNIVERSITY,318,0,coed
+2011,wildcard,Wildcard,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,326,0,coed
+2011,northeast,Semifinal,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,392,0,coed
+2011,northeast,Quarterfinal,3,1,Nor'easters,NORTHEASTERN UNIVERSITY,412,2,coed
+2010,northeast,Quarterfinal,1,2,Nor'easters,NORTHEASTERN UNIVERSITY,377,1,coed
+2010,northeast,Quarterfinal,3,3,Downbeats,NORTHEASTERN UNIVERSITY,339,1,coed
+2008,northeast,Quarterfinal,2,3,Downbeats,NORTHEASTERN UNIVERSITY,288,NA,coed
+2007,new england,Quarterfinal,2,3,Downbeats,NORTHEASTERN UNIVERSITY,285,1,coed
+2019,southwest,Quarterfinal,3,3,Elevation,NORTHERN ARIZONA UNIVERSITY,327,1,coed
+2018,southwest,Quarterfinal,3,2,Unaccompanied,NORTHERN ARIZONA UNIVERSITY,354,0,coed
+2018,southwest,Quarterfinal,1,2,Highlanders,NORTHERN ARIZONA UNIVERSITY,347,0,male
+2017,southwest,Quarterfinal,5,3,Unaccompanied,NORTHERN ARIZONA UNIVERSITY,337,1,coed
+2017,southwest,Quarterfinal,2,2,Highlanders,NORTHERN ARIZONA UNIVERSITY,405,0,male
+2017,southwest,Quarterfinal,2,1,Axecidentals,NORTHERN ARIZONA UNIVERSITY,413,2,female
+2016,southwest,Quarterfinal,3,2,Unaccompanied,NORTHERN ARIZONA UNIVERSITY,375,0,coed
+2016,southwest,Semifinal,1,2,Axecidentals,NORTHERN ARIZONA UNIVERSITY,385,1,female
+2016,southwest,Quarterfinal,3,1,Axecidentals,NORTHERN ARIZONA UNIVERSITY,432,1,female
+2019,great lakes,Quarterfinal,4,3,Huskie Hunks,NORTHERN ILLINOIS UNIVERSITY,309,2,male
+2018,great lakes,Quarterfinal,5,3,Harmelodics,NORTHERN ILLINOIS UNIVERSITY,343,2,female
+2017,great lakes,Quarterfinal,4,2,Harmelodics,NORTHERN ILLINOIS UNIVERSITY,342,1,female
+2016,great lakes,Quarterfinal,1,2,Huskie Hunks,NORTHERN ILLINOIS UNIVERSITY,365,1,male
+2015,midwest,Quarterfinal,1,2,Huskie Hunks,NORTHERN ILLINOIS UNIVERSITY,344,1,male
+2018,great lakes,Quarterfinal,1,2,Undertones,NORTHWESTERN UNIVERSITY,337,1,coed
+2018,great lakes,Quarterfinal,5,1,Purple Haze,NORTHWESTERN UNIVERSITY,396,0,coed
+2017,great lakes,Quarterfinal,1,3,Undertones,NORTHWESTERN UNIVERSITY,319,0,coed
+2016,great lakes,Quarterfinal,4,2,Purple Haze,NORTHWESTERN UNIVERSITY,395,0,coed
+2015,midwest,Quarterfinal,5,1,Undertones,NORTHWESTERN UNIVERSITY,381,1,coed
+2014,midwest,Quarterfinal,4,3,Treblemakers,NORTHWESTERN UNIVERSITY,338,1,coed
+2014,midwest,Quarterfinal,5,1,Purple Haze,NORTHWESTERN UNIVERSITY,384,1,coed
+2013,midwest,Quarterfinal,1,3,Undertones,NORTHWESTERN UNIVERSITY,311,0,coed
+2013,midwest,Quarterfinal,4,1,Extreme Measure,NORTHWESTERN UNIVERSITY,407,2,coed
+2012,midwest,Quarterfinal,2,3,Purple Haze,NORTHWESTERN UNIVERSITY,341,1,coed
+2010,midwest,Quarterfinal,2,2,Undertones,NORTHWESTERN UNIVERSITY,382,1,coed
+2010,midwest,Semifinal,1,1,Purple Haze,NORTHWESTERN UNIVERSITY,374,1,coed
+2010,midwest,Quarterfinal,2,1,Purple Haze,NORTHWESTERN UNIVERSITY,403,1,coed
+2008,midwest,Semifinal,1,1,Purple Haze,NORTHWESTERN UNIVERSITY,373,0,coed
+2008,midwest,Quarterfinal,3,1,Purple Haze,NORTHWESTERN UNIVERSITY,418,3,coed
+2007,midwest,Quarterfinal,2,1,Undertones,NORTHWESTERN UNIVERSITY,439,1,coed
+2018,south,Quarterfinal,1,3,Riff Tides,NOVA SOUTHEASTERN UNIVERSITY,323,0,female
+2019,great lakes,Quarterfinal,3,2,Gold Vibrations,OAKLAND UNIVERSITY,384,1,coed
+2017,great lakes,Quarterfinal,1,1,Gold Vibrations,OAKLAND UNIVERSITY,443,3,coed
+2016,great lakes,Semifinal,1,1,Gold Vibrations,OAKLAND UNIVERSITY,394,0,coed
+2016,great lakes,Quarterfinal,1,1,Gold Vibrations,OAKLAND UNIVERSITY,409,2,coed
+2014,great lakes,Quarterfinal,5,2,Gold Vibrations,OAKLAND UNIVERSITY,360,1,coed
+2017,southwest,Quarterfinal,3,3,Accidentals,OCCIDENTAL COLLEGE,304,0,female
+2019,midwest,Quarterfinal,4,3,Scarlet and Grace Notes,OHIO STATE UNIVERSITY-MAIN CAMPUS,331,1,female
+2019,midwest,Semifinal,1,2,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,338,1,coed
+2019,midwest,Quarterfinal,4,1,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,412,2,coed
+2018,midwest,Quarterfinal,5,2,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,403,2,coed
+2018,midwest,Semifinal,1,3,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,323,0,male
+2018,midwest,Quarterfinal,5,1,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,408,1,male
+2017,midwest,Semifinal,1,1,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,381,2,coed
+2017,midwest,Quarterfinal,5,2,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,346,1,coed
+2016,midwest,Quarterfinal,4,3,Ohio State of Mind,OHIO STATE UNIVERSITY-MAIN CAMPUS,312,0,coed
+2016,midwest,Quarterfinal,4,2,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,352,0,male
+2015,great lakes,Quarterfinal,4,1,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,402,1,male
+2014,great lakes,Quarterfinal,3,3,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,342,1,male
+2013,great lakes,Semifinal,1,3,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,316,1,male
+2013,great lakes,Quarterfinal,4,3,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,NA,1,male
+2012,midwest,Quarterfinal,5,1,Buck That!,OHIO STATE UNIVERSITY-MAIN CAMPUS,427,2,male
+2006,mid-atlantic,Quarterfinal,3,2,High Street,OHIO STATE UNIVERSITY-MAIN CAMPUS,394,1,male
+2018,midwest,Semifinal,1,2,Carmony,OHIO STATE UNIVERSITY-LIMA CAMPUS,324,0,coed
+2018,midwest,Quarterfinal,1,1,Carmony,OHIO STATE UNIVERSITY-LIMA CAMPUS,399,2,coed
+2017,central,Quarterfinal,2,1,Carmony,OHIO STATE UNIVERSITY-LIMA CAMPUS,393,2,coed
+2016,midwest,Quarterfinal,3,3,Section Eight,OHIO UNIVERSITY-MAIN CAMPUS,324,1,male
+2014,great lakes,Quarterfinal,5,3,Pitch Black,OHIO WESLEYAN UNIVERSITY,337,1,female
+2013,northeast,Quarterfinal,4,3,PowerChords,FRANKLIN W OLIN COLLEGE OF ENGINEERING,278,0,coed
+2019,west,Quarterfinal,1,3,Outspoken,OREGON STATE UNIVERSITY,344,1,male
+2017,northwest,Quarterfinal,1,2,Outspoken,OREGON STATE UNIVERSITY,364,1,male
+2016,northwest,Semifinal,1,2,Outspoken,OREGON STATE UNIVERSITY,372,0,male
+2016,northwest,Quarterfinal,1,2,Outspoken,OREGON STATE UNIVERSITY,337,0,male
+2013,west,Quarterfinal,1,3,Divine,OREGON STATE UNIVERSITY,328,1,female
+2012,west,Quarterfinal,1,2,Divine,OREGON STATE UNIVERSITY,386,1,female
+2011,west,Quarterfinal,1,3,Outspoken,OREGON STATE UNIVERSITY,304,0,male
+2010,west,Quarterfinal,1,3,Outspoken,OREGON STATE UNIVERSITY,289,0,male
+2009,west,Quarterfinal,1,2,Outspoken,OREGON STATE UNIVERSITY,339,0,male
+2009,west,Quarterfinal,1,3,Divine,OREGON STATE UNIVERSITY,310,1,female
+2007,west,Quarterfinal,2,2,Outspoken,OREGON STATE UNIVERSITY,364,1,male
+2006,west,Quarterfinal,4,1,Outspoken,OREGON STATE UNIVERSITY,431,2,male
+2019,midwest,Quarterfinal,5,3,Ottertuned,OTTERBEIN UNIVERSITY,309,1,coed
+2018,united kingdom,Quarterfinal,3,2,Alternotives,OXFORD UNIVERSITY,346,0,coed
+2013,international,Semifinal,1,3,Belles,OXFORD UNIVERSITY,295,0,female
+2009,final,Final,1,2,Out of the Blue,OXFORD UNIVERSITY,366,1,male
+2008,western europe,Semifinal,1,1,Out of the Blue,OXFORD UNIVERSITY,426,1,male
+2008,western europe,Quarterfinal,1,1,Out of the Blue,OXFORD UNIVERSITY,372,0,male
+2008,western europe,Semifinal,1,2,Gargoyles,OXFORD UNIVERSITY,357,2,coed
+2008,western europe,Quarterfinal,1,2,Gargoyles,OXFORD UNIVERSITY,367,0,coed
+2008,western europe,Semifinal,1,3,Belles,OXFORD UNIVERSITY,309,1,female
+2008,western europe,Quarterfinal,1,3,Belles,OXFORD UNIVERSITY,331,2,female
+2007,western europe,Semifinal,1,2,Out of the Blue,OXFORD UNIVERSITY,363,1,male
+2007,western europe,Semifinal,1,1,Gargoyles,OXFORD UNIVERSITY,371,1,coed
+2007,western europe,Semifinal,1,3,Alternotives,OXFORD UNIVERSITY,298,1,coed
+2006,western europe,Semifinal,1,1,Out of the Blue,OXFORD UNIVERSITY,565,2,male
+2006,final,Final,1,2,Out of the Blue,OXFORD UNIVERSITY,363,0,male
+2006,western europe,Semifinal,1,3,In the Pink,OXFORD UNIVERSITY,453,1,female
+2019,northeast,Quarterfinal,3,2,Frequency,PACE UNIVERSITY-NEW YORK,390,1,coed
+2018,northeast,Quarterfinal,4,2,Frequency,PACE UNIVERSITY-NEW YORK,360,2,coed
+2019,west,Quarterfinal,4,3,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,358,1,male
+2018,west,Quarterfinal,3,2,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,353,0,male
+2016,northwest,Quarterfinal,4,3,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,318,2,male
+2015,west,Quarterfinal,1,2,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,394,0,male
+2014,west,Quarterfinal,3,1,HERmonic,PACIFIC LUTHERAN UNIVERSITY,416,0,female
+2013,west,Semifinal,1,3,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,365,1,male
+2013,west,Quarterfinal,3,1,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,405,1,male
+2013,west,Quarterfinal,3,2,HERmonic,PACIFIC LUTHERAN UNIVERSITY,376,1,female
+2011,west,Semifinal,1,3,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,315,1,male
+2011,west,Quarterfinal,2,1,PLUtonic,PACIFIC LUTHERAN UNIVERSITY,422,1,male
+2017,central,Quarterfinal,1,1,Coda Conduct,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,404,2,coed
+2015,mid-atlantic,Quarterfinal,3,2,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,316,0,coed
+2015,mid-atlantic,Quarterfinal,3,1,Coda Conduct,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,375,2,coed
+2014,mid-atlantic,Quarterfinal,3,3,Coda Conduct,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,288,0,coed
+2013,mid-atlantic,Quarterfinal,2,2,Statesmen,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,383,1,male
+2013,mid-atlantic,Quarterfinal,2,3,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,372,1,coed
+2012,mid-atlantic,Semifinal,1,1,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,391,1,coed
+2012,mid-atlantic,Quarterfinal,4,1,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,425,2,coed
+2012,mid-atlantic,Semifinal,1,2,JoePas,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,315,1,male
+2012,mid-atlantic,Quarterfinal,4,2,JoePas,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,393,1,male
+2011,mid-atlantic,Quarterfinal,4,2,None of the Above,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,307,0,coed
+2009,mid-atlantic,Quarterfinal,1,2,Shades of Blue,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,388,3,coed
+2007,mid-atlantic,Quarterfinal,2,1,Shades of Blue,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,419,3,coed
+2006,mid-atlantic,Quarterfinal,2,3,Shades of Blue,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,357,1,coed
+2006,mid-atlantic,Semifinal,1,3,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,330,1,coed
+2006,mid-atlantic,Quarterfinal,2,1,Pennharmonics,PENNSYLVANIA STATE UNIVERSITY-MAIN CAMPUS,379,3,coed
+2007,northeast,Quarterfinal,4,2,Vocal Order,PLYMOUTH STATE UNIVERSITY,300,0,male
+2009,west,Quarterfinal,3,2,Pointless,POINT LOMA NAZARENE UNIVERSITY,380,1,male
+2019,west,Quarterfinal,1,2,Green Note,PORTLAND STATE UNIVERSITY,364,1,coed
+2018,west,Quarterfinal,1,1,Green Note,PORTLAND STATE UNIVERSITY,366,1,coed
+2016,northwest,Quarterfinal,1,3,Green Note,PORTLAND STATE UNIVERSITY,334,0,coed
+2019,northeast,Quarterfinal,5,3,iTones,CUNY QUEENS COLLEGE,334,0,coed
+2018,central,Quarterfinal,1,2,Rusty Pipes,RENSSELAER POLYTECHNIC INSTITUTE,370,1,coed
+2016,northeast,Quarterfinal,3,1,Rusty Pipes,RENSSELAER POLYTECHNIC INSTITUTE,346,1,coed
+2011,mid-atlantic,Quarterfinal,1,2,Rusty Pipes,RENSSELAER POLYTECHNIC INSTITUTE,359,0,coed
+2007,northeast,Quarterfinal,1,2,Rusty Pipes,RENSSELAER POLYTECHNIC INSTITUTE,364,2,coed
+2006,northeast,Quarterfinal,2,2,Rusty Pipes,RENSSELAER POLYTECHNIC INSTITUTE,327,0,coed
+2018,southwest,Quarterfinal,2,1,Philharmonics,RICE UNIVERSITY,412,1,coed
+2009,south,Quarterfinal,2,3,Philharmonics,RICE UNIVERSITY,326,0,coed
+2016,mid-atlantic,Quarterfinal,2,3,Til Further Notes,RIDER UNIVERSITY,367,1,coed
+2014,mid-atlantic,Quarterfinal,4,3,Til Further Notes,RIDER UNIVERSITY,304,0,coed
+2013,mid-atlantic,Quarterfinal,3,2,Til Further Notes,RIDER UNIVERSITY,380,0,coed
+2012,mid-atlantic,Quarterfinal,2,1,Til Further Notes,RIDER UNIVERSITY,401,2,coed
+2011,mid-atlantic,Semifinal,1,2,Vocalmotion,RIDER UNIVERSITY,368,1,coed
+2011,mid-atlantic,Quarterfinal,2,2,Vocalmotion,RIDER UNIVERSITY,341,0,coed
+2019,central,Quarterfinal,5,1,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,410,1,male
+2018,central,Semifinal,1,3,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,313,1,male
+2018,central,Quarterfinal,2,2,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,352,2,male
+2013,mid-atlantic,Semifinal,1,3,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,306,1,male
+2013,mid-atlantic,Quarterfinal,4,2,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,322,1,male
+2011,mid-atlantic,Quarterfinal,1,3,Eight Beat Measure,ROCHESTER INSTITUTE OF TECHNOLOGY,316,0,male
+2007,mid-atlantic,Quarterfinal,2,3,Encore,ROCHESTER INSTITUTE OF TECHNOLOGY,290,0,female
+2017,mid-atlantic,Quarterfinal,3,2,RoVo,ROWAN UNIVERSITY,365,1,coed
+2019,united kingdom,Quarterfinal,1,3,Northern Voices,ROYAL NORTHERN COLLEGE OF MUSIC,350,1,coed
+2015,mid-atlantic,Quarterfinal,2,3,OrphanSporks,RUTGERS UNIVERSITY-NEW BRUNSWICK,317,1,coed
+2015,mid-atlantic,Quarterfinal,4,1,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,421,2,male
+2014,mid-atlantic,Semifinal,1,3,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,332,2,male
+2014,mid-atlantic,Quarterfinal,2,2,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,360,1,male
+2012,mid-atlantic,Semifinal,1,3,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,305,1,male
+2012,mid-atlantic,Quarterfinal,1,1,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,377,1,male
+2010,mid-atlantic,Semifinal,1,2,OrphanSporks,RUTGERS UNIVERSITY-NEW BRUNSWICK,337,1,coed
+2010,mid-atlantic,Quarterfinal,1,1,OrphanSporks,RUTGERS UNIVERSITY-NEW BRUNSWICK,362,2,coed
+2010,mid-atlantic,Semifinal,1,3,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,332,0,male
+2010,mid-atlantic,Quarterfinal,4,1,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,368,2,male
+2009,mid-atlantic,Quarterfinal,2,2,Deep Treble,RUTGERS UNIVERSITY-NEW BRUNSWICK,369,1,coed
+2007,mid-atlantic,Semifinal,1,1,Deep Treble,RUTGERS UNIVERSITY-NEW BRUNSWICK,346,2,coed
+2007,mid-atlantic,Quarterfinal,3,2,Deep Treble,RUTGERS UNIVERSITY-NEW BRUNSWICK,405,1,coed
+2006,mid-atlantic,Semifinal,1,1,Shockwave,RUTGERS UNIVERSITY-NEW BRUNSWICK,401,2,female
+2006,mid-atlantic,Quarterfinal,1,1,Shockwave,RUTGERS UNIVERSITY-NEW BRUNSWICK,387,2,female
+2006,mid-atlantic,Quarterfinal,4,1,Casual Harmony,RUTGERS UNIVERSITY-NEW BRUNSWICK,413,3,male
+2019,midwest,Quarterfinal,1,3,Beyond All Reason,SAINT LOUIS UNIVERSITY,291,2,female
+2018,midwest,Quarterfinal,3,1,Beyond All Reason,SAINT LOUIS UNIVERSITY,359,0,female
+2018,midwest,Quarterfinal,3,2,Bare Naked Statues,SAINT LOUIS UNIVERSITY,355,1,male
+2017,midwest,Quarterfinal,1,3,Decadence,SAINT LOUIS UNIVERSITY,324,1,coed
+2017,midwest,Quarterfinal,3,3,Beyond All Reason,SAINT LOUIS UNIVERSITY,294,1,female
+2017,midwest,Quarterfinal,1,2,Bare Naked Statues,SAINT LOUIS UNIVERSITY,327,1,male
+2016,midwest,Quarterfinal,2,3,Bare Naked Statues,SAINT LOUIS UNIVERSITY,348,1,male
+2015,midwest,Quarterfinal,2,3,Bare Naked Statues,SAINT LOUIS UNIVERSITY,342,0,male
+2014,midwest,Semifinal,1,1,Bare Naked Statues,SAINT LOUIS UNIVERSITY,368,2,male
+2014,midwest,Quarterfinal,1,2,Bare Naked Statues,SAINT LOUIS UNIVERSITY,380,2,male
+2014,midwest,Quarterfinal,1,3,Astha A Cappella,SAINT LOUIS UNIVERSITY,290,1,coed
+2018,mid-atlantic,Quarterfinal,3,3,Squawkappella,SALISBURY UNIVERSITY,293,0,coed
+2015,mid-atlantic,Quarterfinal,5,3,Squawkappella,SALISBURY UNIVERSITY,326,0,coed
+2012,south,Quarterfinal,4,2,Squawkappella,SALISBURY UNIVERSITY,291,0,coed
+2018,northeast,Quarterfinal,5,3,Dynamics,SKIDMORE COLLEGE,331,1,coed
+2013,northeast,Quarterfinal,5,1,Drastic Measures,SKIDMORE COLLEGE,387,2,coed
+2013,midwest,Quarterfinal,2,3,Bare Naked Statues,SAINT LOUIS UNIVERSITY,322,0,male
+2019,west,Quarterfinal,3,1,Mendicants,STANFORD UNIVERSITY,389,2,male
+2018,west,Quarterfinal,4,3,Mendicants,STANFORD UNIVERSITY,334,0,male
+2017,northwest,Semifinal,1,3,Mendicants,STANFORD UNIVERSITY,361,0,male
+2017,northwest,Quarterfinal,4,2,Mendicants,STANFORD UNIVERSITY,399,2,male
+2007,west,Quarterfinal,3,2,Raagapella,STANFORD UNIVERSITY,392,1,coed
+2017,mid-atlantic,Quarterfinal,4,3,Stockapella,STOCKTON UNIVERSITY,300,1,coed
+2015,mid-atlantic,Quarterfinal,4,3,Stockapella,STOCKTON UNIVERSITY,293,1,coed
+2013,northeast,Quarterfinal,1,2,Ramifications,SUFFOLK UNIVERSITY,326,1,coed
+2011,northeast,Quarterfinal,4,3,Ramifications,SUFFOLK UNIVERSITY,320,2,coed
+2007,new england,Semifinal,1,3,Ramifications,SUFFOLK UNIVERSITY,339,0,coed
+2007,new england,Quarterfinal,3,3,Ramifications,SUFFOLK UNIVERSITY,302,1,coed
+2012,northeast,Quarterfinal,1,3,Serendipity,SUNY AT ALBANY,315,1,female
+2007,northeast,Quarterfinal,3,2,Earth Tones,SUNY AT ALBANY,331,0,male
+2006,northeast,Quarterfinal,1,3,Serendipity,SUNY AT ALBANY,236,0,female
+2006,northeast,Quarterfinal,1,2,Earth Tones,SUNY AT ALBANY,262,1,male
+2011,mid-atlantic,Quarterfinal,3,2,Crosby's,BINGHAMTON UNIVERSITY,374,1,male
+2010,mid-atlantic,Quarterfinal,2,2,Kaskeset,BINGHAMTON UNIVERSITY,356,1,coed
+2009,mid-atlantic,Semifinal,1,2,Rhythm Method,BINGHAMTON UNIVERSITY,351,0,coed
+2009,mid-atlantic,Quarterfinal,4,2,Rhythm Method,BINGHAMTON UNIVERSITY,362,1,coed
+2007,northeast,Semifinal,1,1,Crosby’s,BINGHAMTON UNIVERSITY,367,1,male
+2007,northeast,Quarterfinal,3,1,Crosby’s,BINGHAMTON UNIVERSITY,NA,1,male
+2017,central,Quarterfinal,2,2,Buffalo Chips,UNIVERSITY AT BUFFALO,359,1,male
+2016,central,Quarterfinal,4,3,Buffalo Chips,UNIVERSITY AT BUFFALO,379,1,male
+2011,mid-atlantic,Semifinal,1,1,Buffalo Chips,UNIVERSITY AT BUFFALO,389,0,male
+2011,mid-atlantic,Quarterfinal,4,1,Buffalo Chips,UNIVERSITY AT BUFFALO,396,3,male
+2010,mid-atlantic,Semifinal,1,1,Buffalo Chips,UNIVERSITY AT BUFFALO,380,1,male
+2010,mid-atlantic,Quarterfinal,3,2,Buffalo Chips,UNIVERSITY AT BUFFALO,345,3,male
+2007,mid-atlantic,Quarterfinal,2,2,Buffalo Chips,UNIVERSITY AT BUFFALO,383,2,male
+2006,northeast,Quarterfinal,2,3,Royal Pitches,UNIVERSITY AT BUFFALO,317,1,female
+2014,northeast,Quarterfinal,1,1,Absolut A Cappella,STATE UNIVERSITY OF NEW YORK AT NEW PALTZ,355,2,coed
+2019,central,Quarterfinal,2,3,Pointercounts,SUNY COLLEGE AT POTSDAM,340,0,male
+2019,central,Quarterfinal,2,1,Pitches,SUNY COLLEGE AT POTSDAM,398,3,coed
+2019,central,Quarterfinal,2,2,A Sharp Arrangement,SUNY COLLEGE AT POTSDAM,344,0,female
+2018,central,Quarterfinal,1,1,Pointercounts,SUNY COLLEGE AT POTSDAM,393,0,male
+2018,central,Semifinal,1,1,Pitches,SUNY COLLEGE AT POTSDAM,408,1,coed
+2018,central,Quarterfinal,3,1,Pitches,SUNY COLLEGE AT POTSDAM,380,2,coed
+2017,central,Quarterfinal,4,3,Pointercounts,SUNY COLLEGE AT POTSDAM,331,1,male
+2017,central,Semifinal,1,3,Pitches,SUNY COLLEGE AT POTSDAM,301,0,coed
+2017,central,Quarterfinal,4,1,Pitches,SUNY COLLEGE AT POTSDAM,382,2,coed
+2016,northeast,Quarterfinal,4,2,Pointercounts,SUNY COLLEGE AT POTSDAM,347,1,male
+2015,northeast,Quarterfinal,4,1,Pointercounts,SUNY COLLEGE AT POTSDAM,399,2,male
+2015,northeast,Quarterfinal,4,3,Pitches,SUNY COLLEGE AT POTSDAM,313,0,coed
+2014,northeast,Quarterfinal,1,2,Pointercounts,SUNY COLLEGE AT POTSDAM,344,1,male
+2014,northeast,Quarterfinal,1,3,A Sharp Arrangement,SUNY COLLEGE AT POTSDAM,328,1,female
+2013,northeast,Quarterfinal,1,3,Pointercounts,SUNY COLLEGE AT POTSDAM,321,1,male
+2011,mid-atlantic,Quarterfinal,1,1,Pointercounts,SUNY COLLEGE AT POTSDAM,430,1,male
+2011,mid-atlantic,Semifinal,1,3,Pitches,SUNY COLLEGE AT POTSDAM,308,0,coed
+2011,mid-atlantic,Quarterfinal,2,1,Pitches,SUNY COLLEGE AT POTSDAM,355,0,coed
+2011,mid-atlantic,Quarterfinal,4,3,A Sharp Arrangement,SUNY COLLEGE AT POTSDAM,393,0,female
+2010,mid-atlantic,Quarterfinal,2,1,Pointercounts,SUNY COLLEGE AT POTSDAM,388,2,male
+2009,mid-atlantic,Semifinal,1,3,Pointercounts,SUNY COLLEGE AT POTSDAM,334,0,male
+2009,mid-atlantic,Quarterfinal,2,1,Pointercounts,SUNY COLLEGE AT POTSDAM,420,2,male
+2007,northeast,Quarterfinal,3,3,A Sharp Arrangement,SUNY COLLEGE AT POTSDAM,322,1,female
+2006,northeast,Semifinal,1,3,Pointercounts,SUNY COLLEGE AT POTSDAM,323,1,male
+2006,northeast,Quarterfinal,2,1,Pointercounts,SUNY COLLEGE AT POTSDAM,424,2,male
+2017,northeast,Quarterfinal,5,3,Choral Pleasure,SUNY AT PURCHASE COLLEGE,293,1,coed
+2015,northeast,Quarterfinal,4,2,Choral Pleasure,SUNY AT PURCHASE COLLEGE,329,0,coed
+2014,northeast,Semifinal,1,3,Choral Pleasure,SUNY AT PURCHASE COLLEGE,302,0,coed
+2014,northeast,Quarterfinal,2,2,Choral Pleasure,SUNY AT PURCHASE COLLEGE,317,2,coed
+2012,northeast,Quarterfinal,4,3,High C's,STONY BROOK UNIVERSITY,NA,0,male
+2014,mid-atlantic,Quarterfinal,5,3,Otto Tunes,SYRACUSE UNIVERSITY,318,0,male
+2013,mid-atlantic,Quarterfinal,4,3,Otto Tunes,SYRACUSE UNIVERSITY,315,0,male
+2012,mid-atlantic,Quarterfinal,1,3,Main Squeeze,SYRACUSE UNIVERSITY,311,1,female
+2012,mid-atlantic,Quarterfinal,1,2,Groovestand,SYRACUSE UNIVERSITY,357,1,coed
+2011,mid-atlantic,Quarterfinal,3,1,Groovestand,SYRACUSE UNIVERSITY,402,1,coed
+2010,mid-atlantic,Quarterfinal,4,3,Mandarins,SYRACUSE UNIVERSITY,301,0,female
+2007,mid-atlantic,Quarterfinal,1,1,Orange Appeal,SYRACUSE UNIVERSITY,383,1,male
+2007,mid-atlantic,Quarterfinal,1,2,Groovestand,SYRACUSE UNIVERSITY,381,2,coed
+2006,mid-atlantic,Quarterfinal,3,1,Orange Appeal,SYRACUSE UNIVERSITY,414,2,male
+2019,mid-atlantic,Quarterfinal,5,1,OwlCappella,TEMPLE UNIVERSITY,383,1,coed
+2019,mid-atlantic,Quarterfinal,5,2,LiaChorus,TEMPLE UNIVERSITY,301,1,coed
+2018,mid-atlantic,Semifinal,1,1,OwlCappella,TEMPLE UNIVERSITY,408,3,coed
+2018,mid-atlantic,Quarterfinal,3,2,OwlCappella,TEMPLE UNIVERSITY,375,1,coed
+2019,southwest,Semifinal,1,1,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,382,1,coed
+2019,southwest,Quarterfinal,5,2,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,419,1,coed
+2018,southwest,Quarterfinal,4,3,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,378,1,coed
+2017,southwest,Semifinal,1,2,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,351,1,coed
+2017,southwest,Quarterfinal,1,2,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,388,2,coed
+2016,southwest,Quarterfinal,2,1,HardChord DynaMix,TEXAS A & M UNIVERSITY-COLLEGE STATION,426,1,coed
+2017,southwest,Quarterfinal,5,2,License to Trill,TEXAS CHRISTIAN UNIVERSITY,398,1,coed
+2017,southwest,Quarterfinal,5,1,Horned Tones,TEXAS CHRISTIAN UNIVERSITY,428,2,male
+2019,mid-atlantic,Semifinal,1,1,Trills,TOWSON UNIVERSITY,378,1,coed
+2019,mid-atlantic,Quarterfinal,3,1,Trills,TOWSON UNIVERSITY,421,3,coed
+2018,mid-atlantic,Quarterfinal,3,1,Trills,TOWSON UNIVERSITY,408,3,coed
+2017,mid-atlantic,Semifinal,1,1,Trills,TOWSON UNIVERSITY,393,2,coed
+2017,mid-atlantic,Quarterfinal,5,2,Trills,TOWSON UNIVERSITY,394,0,coed
+2017,midwest,Quarterfinal,1,1,True Men,TRUMAN STATE UNIVERSITY,338,0,male
+2012,midwest,Quarterfinal,4,3,Sweet Nothings,TRUMAN STATE UNIVERSITY,317,0,coed
+2011,midwest,Quarterfinal,1,3,True Men,TRUMAN STATE UNIVERSITY,331,2,male
+2009,midwest,Quarterfinal,3,2,True Men,TRUMAN STATE UNIVERSITY,360,0,male
+2008,northeast,Quarterfinal,1,2,sQ!,TUFTS UNIVERSITY,374,0,coed
+2007,new england,Quarterfinal,3,2,sQ!,TUFTS UNIVERSITY,314,1,coed
+2016,midwest,Quarterfinal,2,2,In The Stairwell,UNITED STATES AIR FORCE ACADEMY,364,1,male
+2017,south,Quarterfinal,4,2,Noteworthy,UNIVERITY OF GEORGIA,300,0,female
+2017,central,Quarterfinal,1,3,Enchords,UNIVERSITY AT BUFFALO,305,0,coed
+2017,united kingdom,Quarterfinal,3,3,Aberpella,UNIVERSITY OF ABERDEEN,329,0,coed
+2016,central,Quarterfinal,2,2,Rhythm and Roos,UNIVERSITY OF AKRON MAIN CAMPUS,346,1,coed
+2019,southwest,Quarterfinal,1,1,Noteriety,UNIVERSITY OF ARIZONA,421,3,coed
+2019,southwest,Semifinal,1,3,Amplified,UNIVERSITY OF ARIZONA,343,1,coed
+2019,southwest,Quarterfinal,1,2,Amplified,UNIVERSITY OF ARIZONA,369,1,coed
+2018,southwest,Quarterfinal,3,3,Noteriety,UNIVERSITY OF ARIZONA,353,0,coed
+2017,southwest,Quarterfinal,2,3,Amplified,UNIVERSITY OF ARIZONA,344,1,coed
+2016,southwest,Quarterfinal,3,3,Amplified,UNIVERSITY OF ARIZONA,336,1,coed
+2015,west,Quarterfinal,5,1,CatCall,UNIVERSITY OF ARIZONA,375,1,male
+2013,west,Quarterfinal,2,3,CatCall ,UNIVERSITY OF ARIZONA,336,0,male
+2012,west,Quarterfinal,4,2,CatCall ,UNIVERSITY OF ARIZONA,322,1,male
+2006,west,Quarterfinal,3,3,Vocal Ease,UNIVERSITY OF ARIZONA,301,0,female
+2019,united kingdom,Semifinal,1,1,Aquapella,UNIVERSITY OF BATH,413,0,coed
+2019,united kingdom,Quarterfinal,2,1,Aquapella,UNIVERSITY OF BATH,408,1,coed
+2017,united kingdom,Semifinal,1,1,Aquapella,UNIVERSITY OF BATH,359,1,coed
+2017,united kingdom,Quarterfinal,2,3,Aquapella,UNIVERSITY OF BATH,369,1,coed
+2016,united kingdom,Semifinal,1,3,Aquapella,UNIVERSITY OF BATH,345,1,coed
+2016,united kingdom,Quarterfinal,2,2,Aquapella,UNIVERSITY OF BATH,333,1,coed
+2019,united kingdom,Semifinal,1,2,Suspensions,UNIVERSITY OF BRISTOL,412,2,coed
+2019,united kingdom,Quarterfinal,3,1,Suspensions,UNIVERSITY OF BRISTOL,402,0,coed
+2019,united kingdom,Quarterfinal,2,2,Pitch Fight,UNIVERSITY OF BRISTOL,367,1,female
+2019,united kingdom,Quarterfinal,3,3,Academy,UNIVERSITY OF BRISTOL,333,1,male
+2018,wildcard,Wildcard,1,3,Suspensions,UNIVERSITY OF BRISTOL,317,0,coed
+2018,united kingdom,Semifinal,1,2,Suspensions,UNIVERSITY OF BRISTOL,413,2,coed
+2018,united kingdom,Quarterfinal,2,1,Suspensions,UNIVERSITY OF BRISTOL,433,2,coed
+2018,united kingdom,Quarterfinal,2,2,Pitch Fight,UNIVERSITY OF BRISTOL,340,2,female
+2018,united kingdom,Quarterfinal,2,3,Academy,UNIVERSITY OF BRISTOL,288,0,male
+2017,united kingdom,Semifinal,1,3,Suspensions,UNIVERSITY OF BRISTOL,329,0,coed
+2017,united kingdom,Quarterfinal,2,1,Suspensions,UNIVERSITY OF BRISTOL,409,1,coed
+2016,united kingdom,Quarterfinal,2,3,Suspensions,UNIVERSITY OF BRISTOL,310,1,coed
+2019,west,Quarterfinal,4,2,Eh? Cappella,UNIVERSITY OF BRITISH COLUMBIA,378,0,coed
+2018,west,Quarterfinal,3,1,Eh? Cappella,UNIVERSITY OF BRITISH COLUMBIA,389,1,coed
+2018,west,Quarterfinal,3,3,Trebled Acaholics,UNIVERSITY OF BRITISH COLUMBIA-OKANAGAN,333,1,coed
+2019,west,Quarterfinal,5,3,Men’s Octet,UNIVERSITY OF CALIFORNIA-BERKELEY,305,0,male
+2019,west,Quarterfinal,5,2,Dil Se,UNIVERSITY OF CALIFORNIA-BERKELEY,351,2,coed
+2019,west,Quarterfinal,3,3,Artists in Resonance,UNIVERSITY OF CALIFORNIA-BERKELEY,293,1,coed
+2018,west,Quarterfinal,4,1,Men’s Octet,UNIVERSITY OF CALIFORNIA-BERKELEY,357,0,male
+2012,west,Quarterfinal,3,3,Dil Se,UNIVERSITY OF CALIFORNIA-BERKELEY,338,1,coed
+2012,west,Quarterfinal,3,1,Decadence,UNIVERSITY OF CALIFORNIA-BERKELEY,430,2,coed
+2010,west,Quarterfinal,3,2,Men’s Octet,UNIVERSITY OF CALIFORNIA-BERKELEY,373,1,male
+2009,west,Quarterfinal,4,1,Golden Overtones,UNIVERSITY OF CALIFORNIA-BERKELEY,404,1,female
+2009,west,Quarterfinal,4,3,Artists in Resonance,UNIVERSITY OF CALIFORNIA-BERKELEY,336,0,coed
+2008,west,Quarterfinal,2,1,Golden Overtones,UNIVERSITY OF CALIFORNIA-BERKELEY,364,1,female
+2007,west,Quarterfinal,3,3,Golden Overtones,UNIVERSITY OF CALIFORNIA-BERKELEY,308,0,female
+2006,west,Quarterfinal,4,3,Noteworthy,UNIVERSITY OF CALIFORNIA-BERKELEY,247,0,male
+2006,west,Quarterfinal,2,1,Men’s Octet,UNIVERSITY OF CALIFORNIA-BERKELEY,412,1,male
+2006,west,Quarterfinal,4,2,Artists in Resonance,UNIVERSITY OF CALIFORNIA-BERKELEY,305,0,coed
+2019,west,Quarterfinal,5,1,Lounge Lizards,UNIVERSITY OF CALIFORNIA-DAVIS,409,2,coed
+2019,west,Quarterfinal,3,2,Afterglow,UNIVERSITY OF CALIFORNIA-DAVIS,309,0,male
+2018,west,Quarterfinal,4,2,Liquid Hotplates,UNIVERSITY OF CALIFORNIA-DAVIS,350,1,coed
+2017,northwest,Quarterfinal,4,1,Liquid Hotplates,UNIVERSITY OF CALIFORNIA-DAVIS,432,1,coed
+2016,northwest,Quarterfinal,2,2,Spokes,UNIVERSITY OF CALIFORNIA-DAVIS,368,1,female
+2019,southwest,Quarterfinal,4,2,Uniting Voices,UNIVERSITY OF CALIFORNIA-IRVINE,397,1,coed
+2009,west,Quarterfinal,2,1,Circle of Fifths,UNIVERSITY OF CALIFORNIA-IRVINE,381,2,male
+2019,final,Final,1,3,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,352,0,coed
+2019,west,Semifinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,411,2,coed
+2019,west,Quarterfinal,2,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,410,1,coed
+2019,west,Quarterfinal,2,1,Bruin Harmony,UNIVERSITY OF CALIFORNIA-LOS ANGELES,413,1,male
+2018,west,Quarterfinal,5,1,Resonance,UNIVERSITY OF CALIFORNIA-LOS ANGELES,419,1,coed
+2017,southwest,Semifinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,436,1,coed
+2017,southwest,Quarterfinal,4,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,432,1,coed
+2017,final,Final,1,3,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,357,0,coed
+2017,southwest,Semifinal,1,3,Resonance,UNIVERSITY OF CALIFORNIA-LOS ANGELES,348,1,coed
+2017,southwest,Quarterfinal,4,2,Resonance,UNIVERSITY OF CALIFORNIA-LOS ANGELES,367,1,coed
+2015,west,Semifinal,1,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,372,0,coed
+2015,west,Quarterfinal,2,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,349,1,coed
+2014,west,Semifinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,427,2,coed
+2014,west,Quarterfinal,4,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,424,2,coed
+2014,final,Final,1,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,383,0,coed
+2013,west,Semifinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,437,1,coed
+2013,west,Quarterfinal,4,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,412,2,coed
+2013,final,Final,1,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,366,1,coed
+2013,west,Quarterfinal,5,1,Medleys A Cappella,UNIVERSITY OF CALIFORNIA-LOS ANGELES,376,2,coed
+2012,west,Semifinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,401,2,coed
+2012,west,Quarterfinal,3,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,357,1,coed
+2012,final,Final,1,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,387,1,coed
+2011,west,Semifinal,1,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,394,0,coed
+2011,west,Quarterfinal,4,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,412,2,coed
+2010,west,Semifinal,1,3,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,318,0,coed
+2010,west,Quarterfinal,2,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,400,1,coed
+2008,west,Semifinal,1,3,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,357,1,coed
+2008,west,Quarterfinal,4,2,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,340,2,coed
+2007,west,Quarterfinal,1,1,ScatterTones,UNIVERSITY OF CALIFORNIA-LOS ANGELES,431,3,coed
+2018,west,Quarterfinal,2,3,Not So Sharp,UNIVERSITY OF CALIFORNIA-RIVERSIDE,292,0,coed
+2015,west,Quarterfinal,5,2,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,369,1,coed
+2015,west,Quarterfinal,2,3,Beat,UNIVERSITY OF CALIFORNIA-SAN DIEGO,291,1,coed
+2014,west,Quarterfinal,1,3,Daughters of Triton,UNIVERSITY OF CALIFORNIA-SAN DIEGO,343,0,female
+2014,west,Quarterfinal,1,1,Beat,UNIVERSITY OF CALIFORNIA-SAN DIEGO,381,2,coed
+2013,west,Quarterfinal,5,2,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,357,0,coed
+2011,west,Quarterfinal,3,3,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,316,0,coed
+2010,west,Quarterfinal,3,1,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,442,2,coed
+2009,west,Quarterfinal,2,3,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,354,0,coed
+2008,west,Quarterfinal,1,3,Tritones,UNIVERSITY OF CALIFORNIA-SAN DIEGO,347,1,coed
+2017,southwest,Quarterfinal,4,3,Naked Voices,UNIVERSITY OF CALIFORNIA-SANTA BARBARA,359,1,coed
+2009,west,Semifinal,1,3,Naked Voices,UNIVERSITY OF CALIFORNIA-SANTA BARBARA,308,0,coed
+2009,west,Quarterfinal,4,2,Naked Voices,UNIVERSITY OF CALIFORNIA-SANTA BARBARA,360,1,coed
+2007,west,Quarterfinal,4,2,Naked Voices,UNIVERSITY OF CALIFORNIA-SANTA BARBARA,392,3,coed
+2017,northwest,Quarterfinal,4,3,Acquire,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,316,0,coed
+2016,northwest,Quarterfinal,2,1,Hightones,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,396,2,female
+2016,northwest,Quarterfinal,2,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,366,0,coed
+2015,west,Semifinal,1,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,341,0,coed
+2015,west,Quarterfinal,4,2,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,349,0,coed
+2014,west,Quarterfinal,4,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,349,1,coed
+2013,west,Quarterfinal,5,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,306,0,coed
+2011,west,Quarterfinal,2,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,314,1,coed
+2010,west,Quarterfinal,3,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,317,0,coed
+2008,west,Quarterfinal,2,3,Cloud 9,UNIVERSITY OF CALIFORNIA-SANTA CRUZ,296,2,coed
+2017,united kingdom,Quarterfinal,1,2,Cadenza,CAMBRIDGE UNIVERSITY,339,0,coed
+2019,south,Quarterfinal,5,3,Mixed Mode,UNIVERSITY OF CENTRAL FLORIDA,319,1,coed
+2019,wildcard,Wildcard,1,3,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,340,0,coed
+2019,south,Semifinal,1,3,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,320,0,coed
+2019,south,Quarterfinal,5,1,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,422,3,coed
+2018,south,Quarterfinal,5,3,So Noted,UNIVERSITY OF CENTRAL FLORIDA,333,1,coed
+2018,south,Semifinal,1,3,Mixed Mode,UNIVERSITY OF CENTRAL FLORIDA,300,0,coed
+2018,south,Quarterfinal,5,1,Mixed Mode,UNIVERSITY OF CENTRAL FLORIDA,410,2,coed
+2018,south,Quarterfinal,5,2,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,377,2,coed
+2017,south,Quarterfinal,5,3,Voicebox,UNIVERSITY OF CENTRAL FLORIDA,361,1,coed
+2017,south,Quarterfinal,2,3,Mixed Mode,UNIVERSITY OF CENTRAL FLORIDA,377,1,coed
+2017,south,Quarterfinal,2,1,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,424,2,coed
+2016,south,Semifinal,1,1,Voicebox,UNIVERSITY OF CENTRAL FLORIDA,390,2,coed
+2016,south,Quarterfinal,2,2,Voicebox,UNIVERSITY OF CENTRAL FLORIDA,380,1,coed
+2016,south,Semifinal,1,2,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,376,1,coed
+2016,south,Quarterfinal,2,1,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,427,2,coed
+2015,south,Quarterfinal,1,1,Voicebox,UNIVERSITY OF CENTRAL FLORIDA,435,3,coed
+2015,south,Quarterfinal,1,3,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,281,0,coed
+2014,south,Quarterfinal,3,3,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,308,0,coed
+2013,south,Quarterfinal,1,2,Gemini Blvd,UNIVERSITY OF CENTRAL FLORIDA,399,2,coed
+2008,south,Quarterfinal,2,3,Crescendudes,UNIVERSITY OF CENTRAL FLORIDA,320,1,male
+2019,great lakes,Quarterfinal,1,2,Ransom Notes,UNIVERSITY OF CHICAGO,353,1,coed
+2018,final,Final,1,3,Voices In Your Head,UNIVERSITY OF CHICAGO,311,0,coed
+2018,great lakes,Semifinal,1,1,Voices In Your Head,UNIVERSITY OF CHICAGO,393,1,coed
+2018,great lakes,Quarterfinal,1,1,Voices in Your Head,UNIVERSITY OF CHICAGO,378,1,coed
+2017,great lakes,Semifinal,1,1,Voices In Your Head,UNIVERSITY OF CHICAGO,401,1,coed
+2017,great lakes,Quarterfinal,3,1,Voices in Your Head,UNIVERSITY OF CHICAGO,418,0,coed
+2017,final,Final,1,2,Voices in Your Head,UNIVERSITY OF CHICAGO,384,1,coed
+2016,great lakes,Quarterfinal,1,3,Ransom Notes,UNIVERSITY OF CHICAGO,326,0,coed
+2015,midwest,Semifinal,1,1,Voices in Your Head,UNIVERSITY OF CHICAGO,410,2,coed
+2015,midwest,Quarterfinal,3,1,Voices in Your Head,UNIVERSITY OF CHICAGO,426,3,coed
+2015,final,Final,1,2,Voices in Your Head,UNIVERSITY OF CHICAGO,394,1,coed
+2014,midwest,Quarterfinal,5,2,Voices in Your Head,UNIVERSITY OF CHICAGO,355,2,coed
+2014,midwest,Quarterfinal,4,2,Run For Cover,UNIVERSITY OF CHICAGO,401,2,male
+2013,midwest,Quarterfinal,4,3,Ransom Notes,UNIVERSITY OF CHICAGO,295,1,coed
+2012,midwest,Semifinal,1,1,Voices In Your Head,UNIVERSITY OF CHICAGO,456,2,coed
+2012,midwest,Quarterfinal,2,1,Voices in Your Head,UNIVERSITY OF CHICAGO,427,2,coed
+2011,midwest,Quarterfinal,4,3,Voices In Your Head,UNIVERSITY OF CHICAGO,342,1,coed
+2019,midwest,Quarterfinal,5,2,UC Vocalholics,UNIVERSITY OF CINCINNATI-MAIN CAMPUS,359,2,coed
+2017,northwest,Quarterfinal,2,3,In The Buff,UNIVERSITY OF COLORADO-BOULDER,318,1,male
+2011,west,Quarterfinal,2,2,UCD 6,UNIVERSITY OF COLORADO DENVER/ANSCHUTZ MEDICAL CAMPUS,320,0,coed
+2019,northeast,Quarterfinal,4,2,A Minor,UNIVERSITY OF CONNECTICUT,364,1,coed
+2017,northeast,Quarterfinal,5,1,A Minor,UNIVERSITY OF CONNECTICUT,358,3,coed
+2010,northeast,Quarterfinal,2,1,Extreme Measure,UNIVERSITY OF CONNECTICUT,389,0,coed
+2008,northeast,Quarterfinal,3,3,Extreme Measure,UNIVERSITY OF CONNECTICUT,300,1,coed
+2007,northeast,Quarterfinal,2,3,A Completely Different Note,UNIVERSITY OF CONNECTICUT,350,1,male
+2019,midwest,Quarterfinal,5,1,Remedy,UNIVERSITY OF DAYTON,399,1,coed
+2018,midwest,Quarterfinal,5,3,Remedy,UNIVERSITY OF DAYTON,308,1,coed
+2017,midwest,Quarterfinal,5,3,Remedy,UNIVERSITY OF DAYTON,336,1,coed
+2016,midwest,Quarterfinal,4,1,Remedy,UNIVERSITY OF DAYTON,425,1,coed
+2015,great lakes,Quarterfinal,4,2,Remedy,UNIVERSITY OF DAYTON,393,1,coed
+2018,mid-atlantic,Semifinal,1,3,Vocal Point,UNIVERSITY OF DELAWARE,330,0,coed
+2018,mid-atlantic,Quarterfinal,4,1,Vocal Point,UNIVERSITY OF DELAWARE,416,1,coed
+2017,mid-atlantic,Semifinal,1,2,Vocal Point,UNIVERSITY OF DELAWARE,382,0,coed
+2017,mid-atlantic,Quarterfinal,5,1,Vocal Point,UNIVERSITY OF DELAWARE,405,1,coed
+2017,mid-atlantic,Quarterfinal,3,3,The YChromes,UNIVERSITY OF DELAWARE,334,0,male
+2016,mid-atlantic,Quarterfinal,4,2,Vocal Point,UNIVERSITY OF DELAWARE,361,0,coed
+2016,mid-atlantic,Quarterfinal,2,1,MelUDees,UNIVERSITY OF DELAWARE,398,2,coed
+2015,wildcard,Wildcard,1,2,Vocal Point,UNIVERSITY OF DELAWARE,338,0,coed
+2015,mid-atlantic,Semifinal,1,2,Vocal Point,UNIVERSITY OF DELAWARE,323,0,coed
+2015,mid-atlantic,Quarterfinal,5,2,Vocal Point,UNIVERSITY OF DELAWARE,422,0,coed
+2014,south,Semifinal,1,1,Vocal Point,UNIVERSITY OF DELAWARE,398,1,coed
+2014,south,Quarterfinal,5,1,Vocal Point,UNIVERSITY OF DELAWARE,439,2,coed
+2014,final,Final,1,3,Vocal Point,UNIVERSITY OF DELAWARE,379,1,coed
+2013,mid-atlantic,Quarterfinal,3,1,Vocal Point,UNIVERSITY OF DELAWARE,397,1,coed
+2012,south,Quarterfinal,4,3,Vocal Point,UNIVERSITY OF DELAWARE,279,0,coed
+2007,mid-atlantic,Quarterfinal,4,3,Vocal Point,UNIVERSITY OF DELAWARE,307,1,coed
+2019,united kingdom,Quarterfinal,1,2,Tone Up,UNIVERSITY OF EDINBURGH,360,0,coed
+2017,united kingdom,Quarterfinal,2,2,Illuminations,UNIVERSITY OF EXETER,387,1,coed
+2016,united kingdom,Semifinal,1,2,Semi-Toned,UNIVERSITY OF EXETER,369,0,male
+2016,united kingdom,Quarterfinal,2,1,Semi-Toned,UNIVERSITY OF EXETER,370,0,male
+2015,united kingdom,Semifinal,1,2,Semi-Toned,UNIVERSITY OF EXETER,369,1,male
+2019,south,Quarterfinal,4,3,No Southern Accent,UNIVERSITY OF FLORIDA,320,0,coed
+2019,south,Quarterfinal,4,1,Gestalt,UNIVERSITY OF FLORIDA,435,2,coed
+2017,south,Semifinal,1,3,Gestalt,UNIVERSITY OF FLORIDA,311,0,coed
+2017,south,Quarterfinal,5,1,Gestalt,UNIVERSITY OF FLORIDA,379,2,coed
+2014,south,Quarterfinal,4,1,No Southern Accent,UNIVERSITY OF FLORIDA,428,1,coed
+2013,south,Quarterfinal,1,3,No Southern Accent,UNIVERSITY OF FLORIDA,315,1,coed
+2011,south,Quarterfinal,4,3,No Southern Accent,UNIVERSITY OF FLORIDA,365,1,coed
+2010,south,Quarterfinal,1,2,No Southern Accent,UNIVERSITY OF FLORIDA,339,2,coed
+2009,south,Quarterfinal,3,3,Sedoctave,UNIVERSITY OF FLORIDA,310,0,female
+2008,south,Quarterfinal,2,2,No Southern Accent,UNIVERSITY OF FLORIDA,333,0,coed
+2016,south,Quarterfinal,3,2,Accidentals,UNIVERSITY OF GEORGIA,394,1,male
+2015,south,Quarterfinal,2,3,Noteworthy,UNIVERSITY OF GEORGIA,336,1,female
+2014,south,Quarterfinal,1,2,Accidentals,UNIVERSITY OF GEORGIA,388,2,male
+2013,south,Quarterfinal,2,3,Noteworthy,UNIVERSITY OF GEORGIA,347,1,female
+2012,south,Semifinal,1,1,Accidentals,UNIVERSITY OF GEORGIA,400,1,male
+2012,south,Quarterfinal,2,1,Accidentals,UNIVERSITY OF GEORGIA,429,2,male
+2010,south,Semifinal,1,1,Accidentals,UNIVERSITY OF GEORGIA,404,0,male
+2010,south,Quarterfinal,2,1,Accidentals,UNIVERSITY OF GEORGIA,431,1,male
+2010,final,Final,1,3,Accidentals,UNIVERSITY OF GEORGIA,358,2,male
+2009,south,Quarterfinal,2,2,Noteworthy,UNIVERSITY OF GEORGIA,335,2,female
+2009,south,Semifinal,1,2,Accidentals,UNIVERSITY OF GEORGIA,390,1,male
+2009,south,Quarterfinal,2,1,Accidentals,UNIVERSITY OF GEORGIA,410,2,male
+2007,south,Quarterfinal,1,3,Noteworthy,UNIVERSITY OF GEORGIA,335,0,female
+2007,south,Semifinal,1,3,Accidentals,UNIVERSITY OF GEORGIA,336,1,male
+2007,south,Quarterfinal,1,2,Accidentals,UNIVERSITY OF GEORGIA,337,0,male
+2018,northeast,Quarterfinal,5,1,L’Shir,UNIVERSITY OF HARTFORD,380,2,coed
+2013,northeast,Quarterfinal,5,3,HartAttack A Cappella,UNIVERSITY OF HARTFORD,345,0,coed
+2008,northeast,Semifinal,1,3,L’Shir,UNIVERSITY OF HARTFORD,339,1,coed
+2008,northeast,Quarterfinal,3,2,L’Shir,UNIVERSITY OF HARTFORD,326,0,coed
+2007,northeast,Quarterfinal,2,2,L’Shir,UNIVERSITY OF HARTFORD,358,0,coed
+2006,new england,Quarterfinal,1,1,L’Shir,UNIVERSITY OF HARTFORD,378,0,coed
+2018,great lakes,Quarterfinal,2,1,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,425,2,coed
+2017,great lakes,Quarterfinal,1,2,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,377,0,coed
+2016,great lakes,Quarterfinal,2,1,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,311,1,female
+2016,wildcard,Wildcard,1,3,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,313,0,coed
+2016,great lakes,Semifinal,1,2,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,376,1,coed
+2016,great lakes,Quarterfinal,4,1,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,448,1,coed
+2015,midwest,Semifinal,1,3,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,327,0,coed
+2015,midwest,Quarterfinal,1,1,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,408,1,coed
+2014,midwest,Quarterfinal,5,3,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,339,0,coed
+2013,midwest,Quarterfinal,1,2,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,369,1,male
+2013,midwest,Semifinal,1,1,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,365,2,coed
+2013,midwest,Quarterfinal,1,1,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,423,2,coed
+2012,midwest,Quarterfinal,2,2,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,344,1,male
+2012,midwest,Quarterfinal,5,2,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,362,1,female
+2011,midwest,Quarterfinal,4,1,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,376,1,male
+2011,midwest,Quarterfinal,3,3,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,332,0,female
+2010,midwest,Quarterfinal,2,3,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,NA,1,male
+2010,midwest,Quarterfinal,1,3,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,315,0,female
+2009,midwest,Semifinal,1,2,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,381,1,male
+2009,midwest,Quarterfinal,4,1,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,445,3,male
+2009,midwest,Quarterfinal,3,3,Girls Next Door,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,347,1,female
+2008,midwest,Semifinal,1,2,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,336,0,male
+2008,midwest,Quarterfinal,1,1,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,425,2,male
+2008,midwest,Quarterfinal,2,3,No Comment,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,333,0,coed
+2007,midwest,Semifinal,1,2,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,603,1,male
+2007,midwest,Quarterfinal,3,1,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,394,1,male
+2007,midwest,Semifinal,1,3,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,543,0,female
+2007,midwest,Quarterfinal,1,2,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,324,0,female
+2007,midwest,Quarterfinal,2,3,Girls Next Door,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,330,0,female
+2006,midwest,Quarterfinal,2,1,Xtension Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,564,1,male
+2006,midwest,Semifinal,1,3,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,326,0,female
+2006,midwest,Quarterfinal,4,2,Rip Chords,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,380,1,female
+2006,midwest,Semifinal,1,1,Other Guys,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,445,1,male
+2006,midwest,Quarterfinal,4,1,Other Guys,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,443,2,male
+2006,final,Final,1,3,Other Guys,UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,354,0,male
+2019,southwest,Quarterfinal,2,3,Crimson and Blues,UNIVERSITY OF KANSAS,297,0,coed
+2017,midwest,Quarterfinal,4,3,Genuine Imitation,UNIVERSITY OF KANSAS,278,0,coed
+2014,midwest,Quarterfinal,3,3,Genuine Imitation,UNIVERSITY OF KANSAS,281,1,coed
+2013,midwest,Quarterfinal,3,2,Genuine Imitation,UNIVERSITY OF KANSAS,351,1,coed
+2006,midwest,Quarterfinal,3,3,Genuine Imitation,UNIVERSITY OF KANSAS,321,0,coed
+2016,midwest,Quarterfinal,3,2,AcoUstiKats,UNIVERSITY OF KENTUCKY,337,0,male
+2019,united kingdom,Semifinal,1,3,Songsmiths,UNIVERSITY OF LEEDS,324,0,coed
+2019,united kingdom,Quarterfinal,3,2,Songsmiths,UNIVERSITY OF LEEDS,372,0,coed
+2018,united kingdom,Quarterfinal,3,3,Songsmiths,UNIVERSITY OF LEEDS,342,0,coed
+2012,northeast,Quarterfinal,3,2,Steiners,UNIVERSITY OF MAINE,322,1,male
+2009,northeast,Quarterfinal,2,3,Steiners,UNIVERSITY OF MAINE,345,1,male
+2007,northeast,Quarterfinal,1,1,Renaissance,UNIVERSITY OF MAINE,374,1,female
+2006,new england,Quarterfinal,3,3,Steiners,UNIVERSITY OF MAINE,NA,0,male
+2018,mid-atlantic,Quarterfinal,1,3,One Note Stand,UNIVERSITY OF MARY WASHINGTON,327,0,coed
+2019,wildcard,Wildcard,1,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,341,0,coed
+2019,mid-atlantic,Semifinal,1,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,359,2,coed
+2019,mid-atlantic,Quarterfinal,2,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,377,1,coed
+2019,mid-atlantic,Semifinal,1,3,DaCadence,UNIVERSITY OF MARYLAND-COLLEGE PARK,324,1,coed
+2019,mid-atlantic,Quarterfinal,2,1,DaCadence,UNIVERSITY OF MARYLAND-COLLEGE PARK,443,2,coed
+2018,mid-atlantic,Quarterfinal,2,3,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,348,2,coed
+2018,mid-atlantic,Quarterfinal,2,2,DaCadence,UNIVERSITY OF MARYLAND-COLLEGE PARK,349,0,coed
+2017,mid-atlantic,Quarterfinal,2,1,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,386,1,coed
+2017,mid-atlantic,Quarterfinal,2,3,DaCadence,UNIVERSITY OF MARYLAND-COLLEGE PARK,355,1,coed
+2016,mid-atlantic,Quarterfinal,1,3,Treblemakers,UNIVERSITY OF MARYLAND-COLLEGE PARK,316,0,female
+2016,mid-atlantic,Semifinal,1,3,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,331,1,coed
+2016,mid-atlantic,Quarterfinal,1,1,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,403,2,coed
+2016,mid-atlantic,Semifinal,1,1,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,385,2,coed
+2016,mid-atlantic,Quarterfinal,1,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,371,2,coed
+2016,final,Final,1,3,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,352,1,coed
+2015,mid-atlantic,Semifinal,1,1,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,365,1,coed
+2015,mid-atlantic,Quarterfinal,5,1,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,442,2,coed
+2014,south,Quarterfinal,5,3,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,326.5,1,coed
+2014,south,Quarterfinal,5,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,359.5,1,coed
+2013,south,Quarterfinal,4,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,340,0,coed
+2012,south,Semifinal,1,3,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,351,0,coed
+2012,south,Quarterfinal,1,1,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,390,2,coed
+2011,south,Quarterfinal,3,2,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,315,1,coed
+2010,south,Quarterfinal,3,1,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,389,1,coed
+2009,mid-atlantic,Quarterfinal,2,3,PandemoniUM,UNIVERSITY OF MARYLAND-COLLEGE PARK,363,0,coed
+2008,south,Semifinal,1,3,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,312,1,coed
+2008,south,Quarterfinal,3,1,Faux Paz,UNIVERSITY OF MARYLAND-COLLEGE PARK,391,1,coed
+2019,mid-atlantic,Quarterfinal,2,3,Cleftomaniacs,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,354,1,coed
+2018,mid-atlantic,Quarterfinal,2,1,Cleftomaniacs,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,368,1,coed
+2017,northeast,Quarterfinal,2,3,S#arp Attitude,UNIVERSITY OF MASSACHUSETTS- AMHERST,313,1,female
+2016,northeast,Quarterfinal,5,3,S#arp Attitude,UNIVERSITY OF MASSACHUSETTS- AMHERST,339,1,female
+2016,northeast,Semifinal,1,3,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,338,0,coed
+2016,northeast,Quarterfinal,5,1,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,350,1,coed
+2014,northeast,Quarterfinal,5,2,Vocal Suspects,UNIVERSITY OF MASSACHUSETTS- AMHERST,323,2,coed
+2014,northeast,Semifinal,1,2,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,377,1,coed
+2014,northeast,Quarterfinal,5,1,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,428,1,coed
+2013,northeast,Semifinal,1,2,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,376,0,coed
+2013,northeast,Quarterfinal,5,2,Hexachords,UNIVERSITY OF MASSACHUSETTS- AMHERST,363,0,coed
+2011,northeast,Quarterfinal,4,2,Dynamics,UNIVERSITY OF MASSACHUSETTS- AMHERST,337,1,coed
+2009,northeast,Quarterfinal,4,1,Vocal Suspects,UNIVERSITY OF MASSACHUSETTS- AMHERST,365,0,coed
+2008,northeast,Quarterfinal,4,1,Vocal Suspects,UNIVERSITY OF MASSACHUSETTS- AMHERST,403,2,coed
+2007,new england,Quarterfinal,4,1,Vocal Suspects,UNIVERSITY OF MASSACHUSETTS- AMHERST,397,0,coed
+2006,new england,Quarterfinal,4,3,Vocal Suspects,UNIVERSITY OF MASSACHUSETTS- AMHERST,335,0,coed
+2019,final,Final,1,2,BisCaydence,UNIVERSITY OF MIAMI,358,0,coed
+2019,south,Semifinal,1,1,BisCaydence,UNIVERSITY OF MIAMI,364,1,coed
+2019,south,Quarterfinal,5,2,BisCaydence,UNIVERSITY OF MIAMI,408,1,coed
+2018,south,Semifinal,1,2,BisCaydence,UNIVERSITY OF MIAMI,321,1,coed
+2018,south,Quarterfinal,1,1,BisCaydence,UNIVERSITY OF MIAMI,444,4,coed
+2017,south,Quarterfinal,5,2,BisCaydence,UNIVERSITY OF MIAMI,372,0,coed
+2015,south,Quarterfinal,1,2,BisCaydence,UNIVERSITY OF MIAMI,380,1,coed
+2019,great lakes,Quarterfinal,2,3,Sopranos,UNIVERSITY OF MICHIGAN-ANN ARBOR,312,1,female
+2019,great lakes,Semifinal,1,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,407,2,male
+2019,great lakes,Quarterfinal,2,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,370,2,male
+2019,great lakes,Quarterfinal,2,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,360,1,coed
+2018,great lakes,Semifinal,1,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,330,1,male
+2018,great lakes,Quarterfinal,3,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,333,0,male
+2018,great lakes,Quarterfinal,3,3,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,311,1,coed
+2018,great lakes,Semifinal,1,3,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,324,1,coed
+2018,great lakes,Quarterfinal,3,1,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,357,2,coed
+2017,great lakes,Quarterfinal,2,1,Maize Mirchi,UNIVERSITY OF MICHIGAN-ANN ARBOR,346,1,coed
+2017,great lakes,Quarterfinal,2,3,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,328,1,male
+2017,wildcard,Wildcard,1,1,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,379,0,coed
+2017,great lakes,Semifinal,1,2,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,393,1,coed
+2017,great lakes,Quarterfinal,2,2,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,337,0,coed
+2016,great lakes,Quarterfinal,3,1,Maize Mirchi,UNIVERSITY OF MICHIGAN-ANN ARBOR,367,0,coed
+2016,great lakes,Quarterfinal,3,2,Compulsive Lyres,UNIVERSITY OF MICHIGAN-ANN ARBOR,340,1,coed
+2016,great lakes,Quarterfinal,3,3,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,337,2,coed
+2015,great lakes,Quarterfinal,2,3,Maize Mirchi,UNIVERSITY OF MICHIGAN-ANN ARBOR,316,0,coed
+2015,great lakes,Semifinal,1,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,428,2,male
+2015,great lakes,Quarterfinal,2,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,387,0,male
+2015,final,Final,1,3,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,375,2,male
+2015,great lakes,Quarterfinal,2,1,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,412,3,coed
+2014,great lakes,Semifinal,1,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,394,1,male
+2014,great lakes,Quarterfinal,4,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,385,2,male
+2014,great lakes,Quarterfinal,4,3,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,292,0,coed
+2013,great lakes,Semifinal,1,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,423,2,male
+2013,great lakes,Quarterfinal,2,1,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,358,1,male
+2013,great lakes,Quarterfinal,2,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,332,1,coed
+2013,great lakes,Quarterfinal,2,3,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,300,0,coed
+2012,midwest,Semifinal,1,3,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,354,0,male
+2012,midwest,Quarterfinal,3,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,396,2,male
+2012,midwest,Semifinal,1,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,377,0,coed
+2012,midwest,Quarterfinal,3,1,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,403,0,coed
+2011,midwest,Semifinal,1,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,383,1,male
+2011,midwest,Quarterfinal,2,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,382,1,male
+2011,midwest,Semifinal,1,3,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,345,0,coed
+2011,midwest,Quarterfinal,2,1,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,415,1,coed
+2010,midwest,Semifinal,1,3,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,349,0,male
+2010,midwest,Quarterfinal,1,2,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,364,2,male
+2010,midwest,Quarterfinal,4,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,352,1,coed
+2010,midwest,Quarterfinal,1,1,Amazin' Blue,UNIVERSITY OF MICHIGAN-ANN ARBOR,384,0,coed
+2009,midwest,Quarterfinal,2,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,386,0,coed
+2008,midwest,Quarterfinal,1,2,Gimble,UNIVERSITY OF MICHIGAN-ANN ARBOR,356,0,coed
+2008,midwest,Quarterfinal,1,3,G-Men,UNIVERSITY OF MICHIGAN-ANN ARBOR,334,0,male
+2008,midwest,Quarterfinal,3,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,352,0,coed
+2007,midwest,Quarterfinal,2,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,396,1,coed
+2006,midwest,Quarterfinal,2,3,Harmonettes,UNIVERSITY OF MICHIGAN-ANN ARBOR,435,0,female
+2006,midwest,Quarterfinal,2,2,Dicks and Janes,UNIVERSITY OF MICHIGAN-ANN ARBOR,474,2,coed
+2009,midwest,Semifinal,1,3,Lake Effect,UNIVERSITY OF MINNESOTA-DULUTH,328,0,coed
+2009,midwest,Quarterfinal,1,1,Lake Effect,UNIVERSITY OF MINNESOTA-DULUTH,383,0,coed
+2019,great lakes,Semifinal,1,3,Enchantments,UNIVERSITY OF MINNESOTA-TWIN CITIES,323,0,female
+2019,great lakes,Quarterfinal,5,1,Enchantments,UNIVERSITY OF MINNESOTA-TWIN CITIES,353,1,female
+2019,great lakes,Quarterfinal,5,2,Basses Wild,UNIVERSITY OF MINNESOTA-TWIN CITIES,311,2,male
+2019,great lakes,Quarterfinal,5,3,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,307,2,coed
+2017,great lakes,Quarterfinal,3,2,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,374,2,coed
+2015,midwest,Quarterfinal,3,3,Vocal U,UNIVERSITY OF MINNESOTA-TWIN CITIES,332,1,coed
+2014,midwest,Quarterfinal,3,2,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,325,1,coed
+2012,midwest,Quarterfinal,1,2,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,374,1,coed
+2009,midwest,Quarterfinal,2,3,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,334,0,coed
+2008,midwest,Quarterfinal,2,2,7Days,UNIVERSITY OF MINNESOTA-TWIN CITIES,392,2,coed
+2017,midwest,Quarterfinal,3,1,Naturelles,UNIVERSITY OF MISSOURI-COLUMBIA,387,1,female
+2015,midwest,Quarterfinal,4,2,Naturelles,UNIVERSITY OF MISSOURI-COLUMBIA,362,0,female
+2019,southwest,Quarterfinal,2,2,Pitch Please,UNIVERSITY OF NEBRASKA-LINCOLN,341,1,coed
+2019,southwest,Quarterfinal,2,1,Boots & Cats,UNIVERSITY OF NEBRASKA-LINCOLN,424,2,female
+2018,southwest,Quarterfinal,2,3,Boots & Cats,UNIVERSITY OF NEBRASKA-LINCOLN,387,2,female
+2017,midwest,Quarterfinal,4,2,Boots & Cats,UNIVERSITY OF NEBRASKA-LINCOLN,340,0,female
+2016,midwest,Quarterfinal,5,3,Boots & Cats,UNIVERSITY OF NEBRASKA-LINCOLN,292,0,female
+2014,midwest,Quarterfinal,3,1,Boots & Cats,UNIVERSITY OF NEBRASKA-LINCOLN,398,2,female
+2014,midwest,Quarterfinal,2,2,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,368,0,male
+2013,midwest,Quarterfinal,2,2,Rocktavo,UNIVERSITY OF NEBRASKA-LINCOLN,332,0,male
+2013,wildcard,Wildcard,1,2,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,354,0,male
+2013,midwest,Semifinal,1,2,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,342,1,male
+2013,midwest,Quarterfinal,3,1,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,435,2,male
+2012,midwest,Quarterfinal,1,3,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,331,1,male
+2011,midwest,Quarterfinal,1,2,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,379,0,male
+2010,midwest,Quarterfinal,4,3,Rocktavo,UNIVERSITY OF NEBRASKA-LINCOLN,342,0,male
+2010,midwest,Quarterfinal,3,3,Bathtub Dogs,UNIVERSITY OF NEBRASKA-LINCOLN,322,0,male
+2007,midwest,Semifinal,1,1,Rocktavo,UNIVERSITY OF NEBRASKA-LINCOLN,731,1,male
+2007,midwest,Quarterfinal,1,1,Rocktavo,UNIVERSITY OF NEBRASKA-LINCOLN,351,2,male
+2007,final,Final,1,2,Rocktavo,UNIVERSITY OF NEBRASKA-LINCOLN,372,1,male
+2019,northeast,Quarterfinal,4,3,Alabaster Blue,UNIVERSITY OF NEW HAMPSHIRE-MAIN CAMPUS,339,1,coed
+2017,northeast,Quarterfinal,2,2,Notables,UNIVERSITY OF NEW HAMPSHIRE-MAIN CAMPUS,343,1,female
+2006,new england,Quarterfinal,3,2,Alabaster Blue,UNIVERSITY OF NEW HAMPSHIRE-MAIN CAMPUS,337,0,coed
+2019,south,Quarterfinal,3,3,Finer Niners,UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE,318,1,coed
+2016,south,Quarterfinal,1,2,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,319,1,female
+2015,south,Quarterfinal,2,2,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,348,1,female
+2014,south,Quarterfinal,2,3,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,332,0,female
+2013,south,Quarterfinal,3,3,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,303,1,female
+2012,south,Quarterfinal,1,3,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,362,1,female
+2010,south,Quarterfinal,2,2,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,414,2,female
+2009,south,Semifinal,1,3,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,368,1,male
+2009,south,Quarterfinal,1,1,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,432,1,male
+2008,south,Semifinal,1,2,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,359,0,male
+2008,south,Quarterfinal,1,1,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,414,1,male
+2006,south,Semifinal,1,2,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,340,1,male
+2006,south,Quarterfinal,2,1,Spartones,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,400,1,male
+2006,south,Semifinal,1,3,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,394,1,female
+2006,south,Quarterfinal,1,2,Sapphires,UNIVERSITY OF NORTH CAROLINA AT GREENSBORO,344,2,female
+2017,south,Quarterfinal,3,3,Walk-Ons,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,320,1,coed
+2015,south,Quarterfinal,5,2,Walk-Ons,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,314,0,coed
+2013,south,Quarterfinal,3,2,Loreleis,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,390,1,female
+2013,south,Quarterfinal,3,3,Achordants,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,303,0,male
+2011,south,Quarterfinal,2,2,Loreleis,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,395,1,female
+2007,south,Semifinal,1,2,Achordants,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,355,0,male
+2007,south,Quarterfinal,2,1,Achordants,UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,423,0,male
+2019,southwest,Quarterfinal,5,1,Green Tones,UNIVERSITY OF NORTH TEXAS,435,0,coed
+2016,southwest,Quarterfinal,2,2,Green Tones,UNIVERSITY OF NORTH TEXAS,390,2,coed
+2019,west,Semifinal,1,3,Mind the Gap,UNIVERSITY OF OREGON,313,0,coed
+2019,west,Quarterfinal,1,1,Mind the Gap,UNIVERSITY OF OREGON,393,1,coed
+2018,west,Quarterfinal,1,2,Divisi,UNIVERSITY OF OREGON,354,1,female
+2017,northwest,Semifinal,1,2,Mind the Gap,UNIVERSITY OF OREGON,389,2,coed
+2017,northwest,Quarterfinal,1,1,Mind the Gap,UNIVERSITY OF OREGON,414,2,coed
+2016,northwest,Semifinal,1,1,Divisi,UNIVERSITY OF OREGON,443,1,female
+2016,northwest,Quarterfinal,1,1,Divisi,UNIVERSITY OF OREGON,367,2,female
+2015,west,Quarterfinal,3,2,On The Rocks,UNIVERSITY OF OREGON,368,0,male
+2015,west,Quarterfinal,3,1,Mind the Gap,UNIVERSITY OF OREGON,407,2,coed
+2014,west,Quarterfinal,2,1,Mind the Gap,UNIVERSITY OF OREGON,396,1,coed
+2013,west,Quarterfinal,1,1,Divisi,UNIVERSITY OF OREGON,377,2,female
+2012,west,Quarterfinal,1,3,Mind The Gap,UNIVERSITY OF OREGON,352,0,coed
+2010,wildcard,Wildcard,1,1,Divisi,UNIVERSITY OF OREGON,439,0,female
+2010,west,Semifinal,1,2,Divisi,UNIVERSITY OF OREGON,363,1,female
+2010,west,Quarterfinal,1,2,Divisi,UNIVERSITY OF OREGON,391,2,female
+2009,west,Quarterfinal,1,1,On The Rocks,UNIVERSITY OF OREGON,417,3,male
+2008,west,Quarterfinal,3,3,On The Rocks,UNIVERSITY OF OREGON,340,0,male
+2008,west,Semifinal,1,2,Divisi,UNIVERSITY OF OREGON,377,1,female
+2008,west,Quarterfinal,3,1,Divisi,UNIVERSITY OF OREGON,412,2,female
+2007,west,Quarterfinal,2,3,On The Rocks,UNIVERSITY OF OREGON,352,0,male
+2007,west,Semifinal,1,3,Divisi,UNIVERSITY OF OREGON,381,1,female
+2007,west,Quarterfinal,2,1,Divisi,UNIVERSITY OF OREGON,417,1,female
+2016,mid-atlantic,Quarterfinal,3,2,Off the Beat,UNIVERSITY OF PENNSYLVANIA,357,1,coed
+2015,wildcard,Wildcard,1,3,Off The Beat,UNIVERSITY OF PENNSYLVANIA,324,0,coed
+2015,mid-atlantic,Semifinal,1,3,Off The Beat,UNIVERSITY OF PENNSYLVANIA,311,0,coed
+2015,mid-atlantic,Quarterfinal,1,1,Off the Beat,UNIVERSITY OF PENNSYLVANIA,407,2,coed
+2014,mid-atlantic,Quarterfinal,1,2,Counterparts,UNIVERSITY OF PENNSYLVANIA,390,2,coed
+2019,central,Semifinal,1,3,Songburghs,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,325,1,coed
+2019,central,Quarterfinal,3,1,Songburghs,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,380,1,coed
+2019,central,Quarterfinal,3,3,Pittch Please,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,351,2,male
+2019,central,Quarterfinal,3,2,Pitches & Tones,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,361,1,coed
+2018,central,Quarterfinal,5,2,Songburghs,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,372,1,coed
+2018,central,Quarterfinal,5,3,Pitches & Tones,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,300,0,coed
+2018,central,Quarterfinal,5,1,C Flat Run,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,373,3,coed
+2017,central,Quarterfinal,5,3,Songburghs,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,286,2,coed
+2017,central,Semifinal,1,2,Pittch Please,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,309,2,male
+2017,central,Quarterfinal,3,2,Pittch Please,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,327,1,male
+2017,central,Quarterfinal,5,2,Pitches & Tones,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,306,0,coed
+2016,central,Quarterfinal,3,2,Pittch Please,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,314,0,male
+2016,central,Quarterfinal,3,3,C Flat Run,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,298,0,coed
+2015,great lakes,Quarterfinal,5,1,Pittch Please,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,380,0,male
+2014,great lakes,Quarterfinal,2,3,VoKols,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,298,0,coed
+2014,great lakes,Quarterfinal,2,2,C Flat Run,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,301,1,coed
+2013,great lakes,Quarterfinal,3,3,Pitt Pendulums,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,315,0,coed
+2013,great lakes,Quarterfinal,3,2,C Flat Run,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,351,1,coed
+2011,mid-atlantic,Quarterfinal,3,3,Pitt Pendulums,UNIVERSITY OF PITTSBURGH-PITTSBURGH CAMPUS,301,1,coed
+2017,northwest,Quarterfinal,3,2,Underground Sound,UNIVERSITY OF PUGET SOUND,370,2,coed
+2019,central,Quarterfinal,5,2,Vocal Point,UNIVERSITY OF ROCHESTER,349,0,female
+2019,central,Quarterfinal,5,3,After Hours,UNIVERSITY OF ROCHESTER,333,1,coed
+2018,central,Quarterfinal,2,3,YellowJackets,UNIVERSITY OF ROCHESTER,346,1,male
+2018,central,Quarterfinal,2,1,Trebellious,UNIVERSITY OF ROCHESTER,359,1,coed
+2018,central,Quarterfinal,3,2,Midnight Ramblers,UNIVERSITY OF ROCHESTER,302,1,male
+2017,central,Quarterfinal,1,2,Vocal Point,UNIVERSITY OF ROCHESTER,383,1,female
+2016,central,Semifinal,1,2,Midnight Ramblers,UNIVERSITY OF ROCHESTER,318,2,male
+2016,central,Quarterfinal,1,2,Midnight Ramblers,UNIVERSITY OF ROCHESTER,432,2,male
+2015,mid-atlantic,Quarterfinal,2,1,After Hours,UNIVERSITY OF ROCHESTER,406,2,coed
+2014,mid-atlantic,Semifinal,1,2,YellowJackets,UNIVERSITY OF ROCHESTER,375,2,male
+2014,mid-atlantic,Quarterfinal,5,1,YellowJackets,UNIVERSITY OF ROCHESTER,378,2,male
+2013,mid-atlantic,Quarterfinal,2,1,After Hours,UNIVERSITY OF ROCHESTER,384,1,coed
+2011,mid-atlantic,Quarterfinal,2,3,Midnight Ramblers,UNIVERSITY OF ROCHESTER,299,1,male
+2010,mid-atlantic,Quarterfinal,4,2,After Hours,UNIVERSITY OF ROCHESTER,309,0,coed
+2006,mid-atlantic,Quarterfinal,3,3,Vocal Point,UNIVERSITY OF ROCHESTER,321,1,female
+2018,south,Quarterfinal,3,2,Cockappella,UNIVERSITY OF SOUTH CAROLINA-COLUMBIA,383,1,coed
+2016,south,Quarterfinal,3,1,Cocktails,UNIVERSITY OF SOUTH CAROLINA-COLUMBIA,395,1,female
+2016,south,Quarterfinal,3,3,Cockappella,UNIVERSITY OF SOUTH CAROLINA-COLUMBIA,330,0,coed
+2011,south,Quarterfinal,1,1,Cocktails,UNIVERSITY OF SOUTH CAROLINA-COLUMBIA,387,1,female
+2010,south,Quarterfinal,4,3,Cocktails,UNIVERSITY OF SOUTH CAROLINA-COLUMBIA,323,0,female
+2018,final,Final,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,418,2,coed
+2018,west,Semifinal,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,430,1,coed
+2018,west,Quarterfinal,2,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,426,2,coed
+2015,west,Semifinal,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,391,0,coed
+2015,west,Quarterfinal,2,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,416,0,coed
+2015,final,Final,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,400,1,coed
+2012,west,Quarterfinal,2,2,Troy Tones,UNIVERSITY OF SOUTHERN CALIFORNIA,373,0,coed
+2012,wildcard,Wildcard,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,398,0,coed
+2012,west,Semifinal,1,2,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,385,1,coed
+2012,west,Quarterfinal,2,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,440,3,coed
+2012,final,Final,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,394,1,coed
+2011,west,Quarterfinal,4,2,Reverse Osmosis,UNIVERSITY OF SOUTHERN CALIFORNIA,380,1,coed
+2010,west,Semifinal,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,420,2,coed
+2010,west,Quarterfinal,2,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,418,1,coed
+2010,final,Final,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,445,1,coed
+2008,west,Semifinal,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,463,2,coed
+2008,west,Quarterfinal,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,391,0,coed
+2008,final,Final,1,1,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,454,1,coed
+2007,west,Quarterfinal,1,2,Troy Tones,UNIVERSITY OF SOUTHERN CALIFORNIA,326,0,coed
+2007,west,Quarterfinal,4,3,Trojan Men,UNIVERSITY OF SOUTHERN CALIFORNIA,352,0,male
+2006,west,Quarterfinal,1,3,Trojan Men,UNIVERSITY OF SOUTHERN CALIFORNIA,333,1,male
+2006,west,Semifinal,1,3,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,NA,1,coed
+2006,west,Quarterfinal,3,2,SoCal VoCals,UNIVERSITY OF SOUTHERN CALIFORNIA,348,0,coed
+2006,west,Semifinal,1,2,Reverse Osmosis,UNIVERSITY OF SOUTHERN CALIFORNIA,NA,0,coed
+2006,west,Quarterfinal,3,1,Reverse Osmosis,UNIVERSITY OF SOUTHERN CALIFORNIA,423,4,coed
+2018,united kingdom,Quarterfinal,1,2,Other Guys,UNIVERSITY OF ST. ANDREWS,367,0,male
+2018,united kingdom,Quarterfinal,1,3,Accidentals,UNIVERSITY OF ST. ANDREWS,292,0,female
+2017,united kingdom,Quarterfinal,3,2,Accidentals,UNIVERSITY OF ST. ANDREWS,356,0,female
+2015,united kingdom,Semifinal,1,3,Accidentals,UNIVERSITY OF ST. ANDREWS,289,0,female
+2008,western europe,Quarterfinal,2,1,Other Guys,UNIVERSITY OF ST. ANDREWS,396,2,male
+2008,western europe,Quarterfinal,2,2,Accidentals,UNIVERSITY OF ST. ANDREWS,298,1,female
+2019,south,Quarterfinal,1,3,VOLT,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,365,1,coed
+2018,south,Quarterfinal,2,1,UT Singers,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,348,0,coed
+2017,south,Quarterfinal,1,3,VOLT,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,313,1,coed
+2016,south,Quarterfinal,1,3,VOLT,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,316,0,coed
+2014,south,Quarterfinal,1,3,VOLume,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,312,0,male
+2013,south,Quarterfinal,2,2,reVOLution,THE UNIVERSITY OF TENNESSEE-CHATTANOOGA,394,0,female
+2018,southwest,Semifinal,1,1,RISE,THE UNIVERSITY OF TEXAS AT ARLINGTON,419,1,coed
+2018,southwest,Quarterfinal,4,2,RISE,THE UNIVERSITY OF TEXAS AT ARLINGTON,385,1,coed
+2018,wildcard,Wildcard,1,2,One Note Stand,THE UNIVERSITY OF TEXAS AT AUSTIN,347,0,coed
+2018,southwest,Semifinal,1,2,One Note Stand,THE UNIVERSITY OF TEXAS AT AUSTIN,383,1,coed
+2018,southwest,Quarterfinal,4,1,One Note Stand,THE UNIVERSITY OF TEXAS AT AUSTIN,422,1,coed
+2017,southwest,Quarterfinal,1,3,Texas Songhorns,THE UNIVERSITY OF TEXAS AT AUSTIN,334,0,male
+2016,southwest,Quarterfinal,2,3,One Note Stand,THE UNIVERSITY OF TEXAS AT AUSTIN,381,1,coed
+2017,central,Quarterfinal,3,3,TBA. Tunes. Beats. Awesome.,UNIVERSITY OF TORONTO,294,2,coed
+2016,central,Quarterfinal,4,1,TBA. Tunes. Beats. Awesome.,UNIVERSITY OF TORONTO,436,1,coed
+2014,great lakes,Quarterfinal,4,2,TBA. Tunes. Beats. Awesome.,UNIVERSITY OF TORONTO,294,1,coed
+2013,great lakes,Quarterfinal,4,2,TBA - Tunes Beats Awesome,UNIVERSITY OF TORONTO,349,2,coed
+2012,northeast,Semifinal,1,3,TBA - Tunes Beats Awesome,UNIVERSITY OF TORONTO,343,2,coed
+2012,northeast,Quarterfinal,4,2,TBA - Tunes Beats Awesome,UNIVERSITY OF TORONTO,388,1,coed
+2010,mid-atlantic,Quarterfinal,3,1,Onoscatopoeia,UNIVERSITY OF TORONTO,368,1,coed
+2018,southwest,Quarterfinal,1,3,Infrared,UNIVERSITY OF UTAH,336,2,coed
+2017,northwest,Quarterfinal,2,2,Infrared,UNIVERSITY OF UTAH,335,1,coed
+2016,northwest,Quarterfinal,3,3,Infrared,UNIVERSITY OF UTAH,307,1,coed
+2011,west,Quarterfinal,1,2,Infrared,UNIVERSITY OF UTAH,341,1,coed
+2006,south,Quarterfinal,2,3,New Dominions,UNIVERSITY OF VIRGINIA-MAIN CAMPUS,328,1,coed
+2019,west,Semifinal,1,2,Furmata A Cappella,UNIVERSITY OF WASHINGTON-SEATTLE CAMPUS,350,1,coed
+2019,west,Quarterfinal,4,1,Furmata A Cappella,UNIVERSITY OF WASHINGTON-SEATTLE CAMPUS,436,2,coed
+2017,northwest,Semifinal,1,1,Furmata A Cappella,UNIVERSITY OF WASHINGTON-SEATTLE CAMPUS,434,2,coed
+2017,northwest,Quarterfinal,3,1,Furmata A Cappella,UNIVERSITY OF WASHINGTON-SEATTLE CAMPUS,433,2,coed
+2016,northwest,Quarterfinal,4,1,Furmata A Cappella,UNIVERSITY OF WASHINGTON-SEATTLE CAMPUS,403,0,coed
+2019,central,Quarterfinal,4,3,Water Boys,UNIVERSITY OF WATERLOO,334,1,male
+2019,central,Quarterfinal,4,1,In Full Colour,UNIVERSITY OF WATERLOO,360,1,coed
+2018,central,Quarterfinal,4,2,Water Boys,UNIVERSITY OF WATERLOO,290,1,male
+2018,central,Quarterfinal,4,3,Unaccompanied Minors,UNIVERSITY OF WATERLOO,283,1,coed
+2018,central,Semifinal,1,2,In Full Colour,UNIVERSITY OF WATERLOO,350,1,coed
+2018,central,Quarterfinal,4,1,In Full Colour,UNIVERSITY OF WATERLOO,300,1,coed
+2017,central,Semifinal,1,1,Water Boys,UNIVERSITY OF WATERLOO,339,2,male
+2017,central,Quarterfinal,4,2,Water Boys,UNIVERSITY OF WATERLOO,360,1,male
+2016,central,Quarterfinal,4,2,Committee,UNIVERSITY OF WATERLOO,386,1,coed
+2016,central,Quarterfinal,1,3,AcaBellas,UNIVERSITY OF WATERLOO,334,0,female
+2014,wildcard,Wildcard,1,2,Intentional Accidentals,UNIVERSITY OF WATERLOO,314,0,coed
+2014,great lakes,Semifinal,1,3,Intentional Accidentals,UNIVERSITY OF WATERLOO,334,1,coed
+2014,great lakes,Quarterfinal,3,2,Intentional Accidentals,UNIVERSITY OF WATERLOO,350,2,coed
+2006,midwest,Quarterfinal,4,3,Fifth Element,UNIVERSITY OF WISCONSIN-EAU CLAIRE,359,1,coed
+2019,great lakes,Quarterfinal,5,2,Pitches & Notes,UNIVERSITY OF WISCONSIN-MADISON,311,0,female
+2019,great lakes,Semifinal,1,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,374,2,male
+2019,great lakes,Quarterfinal,4,1,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,409,0,male
+2018,great lakes,Quarterfinal,1,3,Pitches & Notes,UNIVERSITY OF WISCONSIN-MADISON,335,1,female
+2018,great lakes,Quarterfinal,5,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,366,2,male
+2017,great lakes,Quarterfinal,3,3,Pitches & Notes,UNIVERSITY OF WISCONSIN-MADISON,368,2,female
+2017,great lakes,Semifinal,1,3,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,391,1,male
+2017,great lakes,Quarterfinal,4,1,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,436,2,male
+2016,great lakes,Quarterfinal,4,3,Pitches & Notes,UNIVERSITY OF WISCONSIN-MADISON,329,1,female
+2016,great lakes,Semifinal,1,3,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,340,1,male
+2016,great lakes,Quarterfinal,5,1,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,424,3,male
+2015,midwest,Semifinal,1,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,337,1,male
+2015,midwest,Quarterfinal,5,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,352,1,male
+2014,midwest,Quarterfinal,4,1,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,405,0,male
+2013,midwest,Semifinal,1,3,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,327,1,male
+2013,midwest,Quarterfinal,4,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,318,1,male
+2011,midwest,Quarterfinal,4,2,Fundamentally Sound,UNIVERSITY OF WISCONSIN-MADISON,347,1,male
+2017,northwest,Quarterfinal,2,1,VoiceLine,UTAH VALLEY UNIVERSITY,361,1,male
+2019,south,Quarterfinal,3,1,Harmonic Notion,VANDERBILT UNIVERSITY,399,1,coed
+2018,south,Quarterfinal,2,3,Harmonic Notion,VANDERBILT UNIVERSITY,336,1,coed
+2014,south,Quarterfinal,3,1,Melodores,VANDERBILT UNIVERSITY,413,1,male
+2012,south,Quarterfinal,2,2,Melodores,VANDERBILT UNIVERSITY,419,1,male
+2011,wildcard,Wildcard,1,1,Melodores,VANDERBILT UNIVERSITY,410,0,male
+2011,south,Semifinal,1,2,Melodores,VANDERBILT UNIVERSITY,412,1,male
+2011,south,Quarterfinal,2,1,Melodores,VANDERBILT UNIVERSITY,447,1,male
+2011,final,Final,1,3,Melodores,VANDERBILT UNIVERSITY,354,1,male
+2015,northeast,Semifinal,1,1,Vassar Devils,VASSAR COLLEGE,403,2,coed
+2015,northeast,Quarterfinal,5,2,Vassar Devils,VASSAR COLLEGE,396,2,coed
+2017,mid-atlantic,Semifinal,1,3,Supernovas,VILLANOVA UNIVERSITY,318,0,coed
+2017,mid-atlantic,Quarterfinal,1,1,Supernovas,VILLANOVA UNIVERSITY,373,0,coed
+2014,mid-atlantic,Quarterfinal,1,3,Supernovas,VILLANOVA UNIVERSITY,314,1,coed
+2019,south,Quarterfinal,2,3,Ramifications,VIRGINIA COMMONWEALTH UNIVERSITY,318,1,coed
+2007,south,Quarterfinal,3,1,Sensasians,VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY,380,2,NA
+2007,south,Quarterfinal,3,3,Juxtaposition,VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY,259,1,male
+2016,mid-atlantic,Semifinal,1,2,Vocal Synergy,WAGNER COLLEGE,346,0,female
+2016,mid-atlantic,Quarterfinal,5,2,Vocal Synergy,WAGNER COLLEGE,345,1,female
+2014,mid-atlantic,Quarterfinal,2,1,Vocal Synergy,WAGNER COLLEGE,382,1,female
+2019,midwest,Quarterfinal,1,2,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,330,1,male
+2019,midwest,Quarterfinal,2,2,Amateurs,WASHINGTON UNIVERSITY IN ST. LOUIS,372,0,coed
+2018,midwest,Quarterfinal,3,3,After Dark,WASHINGTON UNIVERSITY IN ST. LOUIS,256,0,coed
+2017,midwest,Semifinal,1,3,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,316,0,male
+2017,midwest,Quarterfinal,3,2,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,379,1,male
+2017,midwest,Quarterfinal,5,1,Mosaic Whispers,WASHINGTON UNIVERSITY IN ST. LOUIS,355,0,coed
+2017,midwest,Quarterfinal,1,1,Amateurs,WASHINGTON UNIVERSITY IN ST. LOUIS,338,1,coed
+2016,midwest,Quarterfinal,3,1,Sensasians,WASHINGTON UNIVERSITY IN ST. LOUIS,373,2,coed
+2016,midwest,Semifinal,1,1,Mosaic Whispers,WASHINGTON UNIVERSITY IN ST. LOUIS,333,1,coed
+2016,midwest,Quarterfinal,5,1,Mosaic Whispers,WASHINGTON UNIVERSITY IN ST. LOUIS,400,1,coed
+2015,midwest,Quarterfinal,2,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,387,2,male
+2015,midwest,Quarterfinal,5,3,Sensasians,WASHINGTON UNIVERSITY IN ST. LOUIS,324,2,coed
+2015,midwest,Quarterfinal,2,2,Amateurs,WASHINGTON UNIVERSITY IN ST. LOUIS,348,1,coed
+2014,midwest,Semifinal,1,2,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,367,0,male
+2014,midwest,Quarterfinal,1,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,407,0,male
+2012,midwest,Quarterfinal,1,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,376,1,male
+2011,midwest,Semifinal,1,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,384,0,male
+2011,midwest,Quarterfinal,3,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,408,3,male
+2010,wildcard,Wildcard,1,2,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,362,0,male
+2010,midwest,Semifinal,1,2,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,372,2,male
+2010,midwest,Quarterfinal,4,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,374,1,male
+2009,midwest,Quarterfinal,3,1,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,424,3,male
+2008,midwest,Quarterfinal,4,3,Stereotypes,WASHINGTON UNIVERSITY IN ST. LOUIS,347,0,male
+2010,northeast,Quarterfinal,4,1,Tupelos,WELLESLEY COLLEGE,372,0,female
+2009,northeast,Quarterfinal,3,3,Tupelos,WELLESLEY COLLEGE,309,0,female
+2007,new england,Quarterfinal,4,3,Tupelos,WELLESLEY COLLEGE,366,1,female
+2006,northeast,Quarterfinal,4,3,Tupelos,WELLESLEY COLLEGE,320,0,female
+2019,mid-atlantic,Quarterfinal,4,1,Under A Rest,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,434,2,coed
+2019,mid-atlantic,Quarterfinal,4,2,High Street Harmonix,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,383,2,male
+2018,mid-atlantic,Quarterfinal,4,2,Under A Rest,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,399,2,coed
+2018,mid-atlantic,Quarterfinal,4,3,High Street Harmonix,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,340,1,male
+2017,mid-atlantic,Quarterfinal,1,2,Under A Rest,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,346,2,coed
+2016,mid-atlantic,Quarterfinal,3,3,Under A Rest,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,307,2,coed
+2015,mid-atlantic,Quarterfinal,1,3,High Street Harmonix,WEST CHESTER UNIVERSITY OF PENNSYLVANIA,302,0,male
+2015,west,Quarterfinal,3,3,15 Miles West,WESTERN OREGON UNIVERSITY,340,0,male
+2014,west,Quarterfinal,2,1,15 Miles West,WESTERN OREGON UNIVERSITY,396,1,male
+2013,west,Quarterfinal,1,2,15 Miles West,WESTERN OREGON UNIVERSITY,359,1,male
+2013,west,Quarterfinal,3,3,Undefined,WESTERN WASHINGTON UNIVERSITY,335,0,male
+2019,mid-atlantic,Quarterfinal,3,2,Deaftones,RIDER UNIVERSITY,352,0,coed
+2015,mid-atlantic,Quarterfinal,4,2,Deaftones,RIDER UNIVERSITY,305,1,coed
+2014,mid-atlantic,Quarterfinal,1,1,Deaftones,RIDER UNIVERSITY,402,0,coed
+2009,mid-atlantic,Quarterfinal,4,1,Deaftones,RIDER UNIVERSITY,379,1,coed
+2007,mid-atlantic,Semifinal,1,3,Deaftones,RIDER UNIVERSITY,311,0,coed
+2007,mid-atlantic,Quarterfinal,3,1,Deaftones,RIDER UNIVERSITY,417,1,coed
+2014,west,Quarterfinal,2,3,Headband,WILLAMETTE UNIVERSITY,338,1,male
+2012,northeast,Semifinal,1,1,Out of the Blue,YALE UNIVERSITY,371,0,coed
+2012,northeast,Quarterfinal,2,2,Out of the Blue,YALE UNIVERSITY,384,1,coed
+2009,northeast,Semifinal,1,1,Duke’s Men,YALE UNIVERSITY,441,2,male
+2009,northeast,Quarterfinal,1,1,Duke’s Men,YALE UNIVERSITY,427,2,male
+2006,northeast,Quarterfinal,1,1,Out of the Blue,YALE UNIVERSITY,363,2,coed
+2019,central,Quarterfinal,4,2,Wibi,YORK UNIVERSITY,358,1,coed
+2006,northeast,Quarterfinal,3,3,Wibi,YORK UNIVERSITY,329,1,coed
+2019,southwest,Semifinal,1,2,LEGACY,,353,1,coed
+2019,southwest,Quarterfinal,3,1,LEGACY,,441,2,coed
