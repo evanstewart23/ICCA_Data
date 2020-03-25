@@ -14,9 +14,9 @@ Variables include:
 * Region of Competition as classified by V.V.
 * Competition Level - Quarterfinal, Semifinal, or Final
 * compcode - a numerical designator to distinguish multiple quarterfinals within regions. Regional Semifinals and Finals receive a compcode of 1. 
-* Group Name as reported by V.V. data cleaning for v0.5 standardized spelling for groups across years. R's str to upper command further standardizes these names with uniform uppercase. 
-* University as reported by V.V., again standardized in v0.5 cleaning
-* Score
+* Group Name as reported by V.V. A process of data cleaning implemented standardized spelling for groups across years.
+* University as reported by V.V., again standardized in data cleaning
+* Score - numeric score for each placing group reported by V.V.
 * Place - a numerical designator for rank in each competition. Score reflects place in most cases, but the rank designator preserves changes in rank due to scoring penalties such as going over time. 
 * Award - a count of the number of special awards given to placing group  in each competition (e.g. best choreography, outstanding soloist). 
-* Gender - an indicator of the stated gender composition of each group (all male, all female, coed), validated by group descriptions obtained via Google. 
+* Gender - an indicator of the stated gender composition of each group (all men, all women, coed), validated by group descriptions obtained via Google. 
